@@ -1,0 +1,2504 @@
+Ius,abbeville,Abbeville,MS,,34.5030556,-89.5030556
+us,abbott,Abbott,MS,,33.6800000,-88.7744444
+us,abdan,Abdan,MS,,32.6138889,-89.5666667
+us,aberdeen,Aberdeen,MS,,33.8250000,-88.5436111
+us,aberdeen junction,Aberdeen Junction,MS,,33.0325000,-89.8775000
+us,abney,Abney,MS,,34.2133333,-88.4869444
+us,ackerman,Ackerman,MS,,33.3100000,-89.1727778
+us,acme,Acme,MS,,31.9675000,-89.1733333
+us,acona,Acona,MS,,33.2716667,-90.0161111
+us,adair,Adair,MS,,33.3136111,-90.0905556
+us,adams,Adams,MS,,32.1597222,-90.5605556
+us,adams landing,Adams Landing,MS,,32.5702778,-90.7266667
+us,adaton,Adaton,MS,,33.4772222,-88.9213889
+us,addie,Addie,MS,,32.9872222,-91.0758333
+us,adelle,Adelle,MS,,32.5055556,-90.4055556
+us,agricola,Agricola,MS,,30.8075000,-88.5200000
+us,aiken,Aiken,MS,,34.6308333,-89.7397222
+us,airey,Airey,MS,,30.6483333,-89.0772222
+us,akron,Akron,MS,,32.7408333,-88.5247222
+us,alamucha,Alamucha,MS,,32.3586111,-88.4686111
+us,albeison,Albeison,MS,,31.4911111,-89.2791667
+us,albin,Albin,MS,,33.9133333,-90.3297222
+us,alcorn,Alcorn,MS,,31.8777778,-91.1391667
+us,aldens,Aldens,MS,,34.9333333,-90.0247222
+us,aldridge,Aldridge,MS,,33.3619444,-90.9097222
+us,alesville,Alesville,MS,,34.3650000,-89.6041667
+us,algoma,Algoma,MS,,34.1761111,-89.0311111
+us,alhambra,Alhambra,MS,,33.0277778,-91.0600000
+us,alice,Alice,MS,,32.9108333,-89.2800000
+us,allen,Allen,MS,,32.0016667,-91.0036111
+us,allentown,Allentown,MS,,34.8572222,-88.6050000
+us,alligator,Alligator,MS,,34.0894444,-90.7194444
+us,almy,Almy,MS,,33.3491667,-90.8791667
+us,alonzo,Alonzo,MS,,32.0502778,-90.2152778
+us,alphaba,Alphaba,MS,,34.7738889,-89.8736111
+us,alpine,Alpine,MS,,34.4952778,-88.7977778
+us,altitude,Altitude,MS,,34.6683333,-88.4430556
+us,altus,Altus,MS,,34.3408333,-89.3961111
+us,alva,Alva,MS,,33.6377778,-89.5072222
+us,amory,Amory,MS,,33.9841667,-88.4880556
+us,amy,Amy,MS,,31.7772222,-89.2583333
+us,anchor,Anchor,MS,,33.8266667,-89.0380556
+us,anchorage,Anchorage,MS,,32.9313889,-90.6141667
+us,anderson,Anderson,MS,,32.5591667,-90.2450000
+us,anderson landing,Anderson Landing,MS,,34.1397222,-90.8666667
+us,anding,Anding,MS,,32.6919444,-90.3977778
+us,anguilla,Anguilla,MS,,32.9738889,-90.8244444
+us,anna,Anna,MS,,31.6966667,-91.3513889
+us,annandale,Annandale,MS,,32.5147222,-90.1883333
+us,anse,Anse,MS,,32.1188889,-90.1008333
+us,ansley,Ansley,MS,,30.2250000,-89.4836111
+us,antioch,Antioch,MS,,31.6336111,-89.0580556
+us,applewood,Applewood,MS,,34.2897222,-88.7225000
+us,arbo,Arbo,MS,,31.7266667,-89.6338889
+us,arcola,Arcola,MS,,33.2697222,-90.8797222
+us,ariel,Ariel,MS,,31.1005556,-90.9872222
+us,arkabutla,Arkabutla,MS,,34.6988889,-90.1222222
+us,arlington,Arlington,MS,,31.4183333,-90.5566667
+us,arm,Arm,MS,,31.5027778,-90.0161111
+us,armistead,Armistead,MS,,34.3641667,-90.6122222
+us,arnold line,Arnold Line,MS,,31.3350000,-89.3733333
+us,arnot,Arnot,MS,,31.2555556,-91.6083333
+us,artesia,Artesia,MS,,33.4152778,-88.6438889
+us,artonish,Artonish,MS,,31.1897222,-91.5836111
+us,arunde,Arunde,MS,,32.3030556,-88.7622222
+us,asa,Asa,MS,,34.2688889,-90.0711111
+us,ashland,Ashland,MS,,34.8327778,-89.1758333
+us,ashley,Ashley,MS,,31.8019444,-90.2630556
+us,ashley crossing,Ashley Crossing,MS,,33.4175000,-90.9888889
+us,ashwood,Ashwood,MS,,31.0447222,-91.2969444
+us,askew,Askew,MS,,34.5369444,-90.1933333
+us,athens,Athens,MS,,33.8722222,-88.4416667
+us,atlanta,Atlanta,MS,,33.7983333,-89.1475000
+us,atway,Atway,MS,,34.8658333,-89.4127778
+us,aubrey,Aubrey,MS,,33.1475000,-88.3322222
+us,auburn,Auburn,MS,,31.3591667,-90.6077778
+us,austin,Austin,MS,,34.6405556,-90.4491667
+us,australia landing,Australia Landing,MS,,34.0655556,-90.8777778
+us,auter,Auter,MS,,33.0427778,-90.7105556
+us,avalon,Avalon,MS,,33.6550000,-90.0855556
+us,avent,Avent,MS,,30.9813889,-88.7791667
+us,avera,Avera,MS,,31.2958333,-88.7413889
+us,avon,Avon,MS,,33.2300000,-91.0472222
+us,bacon springs,Bacon Springs,MS,,34.8711111,-88.1361111
+us,bacots,Bacots,MS,,31.2125000,-90.3841667
+us,bailey,Bailey,MS,,32.4675000,-88.7227778
+us,baird,Baird,MS,,33.4250000,-90.5833333
+us,baker,Baker,MS,,34.5025000,-88.9472222
+us,bald hill,Bald Hill,MS,,34.4130556,-89.0852778
+us,baldwyn,Baldwyn,MS,,34.5094444,-88.6352778
+us,ball hill,Ball Hill,MS,,32.3152778,-89.3558333
+us,ballard,Ballard,MS,,32.6027778,-90.0786111
+us,ballardsville,Ballardsville,MS,,34.2425000,-88.5380556
+us,ballaston,Ballaston,MS,,33.7861111,-90.5333333
+us,ballentine,Ballentine,MS,,34.3941667,-90.0963889
+us,ballground,Ballground,MS,,32.5375000,-90.7466667
+us,baltzer,Baltzer,MS,,33.9819444,-90.5947222
+us,banks,Banks,MS,,34.8258333,-90.2297222
+us,banner,Banner,MS,,34.0886111,-89.3847222
+us,barbara,Barbara,MS,,30.9919444,-88.9783333
+us,barbee,Barbee,MS,,34.4311111,-90.4597222
+us,barfoot,Barfoot,MS,,32.5808333,-89.1800000
+us,barksdale,Barksdale,MS,,34.2238889,-90.3947222
+us,barland,Barland,MS,,31.8875000,-90.8105556
+us,barlow,Barlow,MS,,31.8225000,-90.6491667
+us,barnes,Barnes,MS,,32.9022222,-89.5016667
+us,barnes prairie,Barnes Prairie,MS,,32.4213889,-90.0141667
+us,barnesville,Barnesville,MS,,34.9938889,-90.0958333
+us,barnett,Barnett,MS,,31.9866667,-88.9050000
+us,barr,Barr,MS,,34.6244444,-89.7800000
+us,barron point,Barron Point,MS,,31.1472222,-89.1652778
+us,barrontown,Barrontown,MS,,31.3752778,-89.2175000
+us,barrs mill,Barrs Mill,MS,,33.7972222,-88.8527778
+us,barth,Barth,MS,,30.6722222,-89.3644444
+us,bartlett,Bartlett,MS,,32.2583333,-89.3166667
+us,barto,Barto,MS,,31.1755556,-90.3113889
+us,barton,Barton,MS,,30.7708333,-88.5980556
+us,basic,Basic,MS,,32.2183333,-88.7691667
+us,bassfield,Bassfield,MS,,31.4963889,-89.7394444
+us,batesville,Batesville,MS,,34.3113889,-89.9441667
+us,batson,Batson,MS,,31.2688889,-89.1958333
+us,batt place,Batt Place,MS,,30.9752778,-88.9791667
+us,battle bluff,Battle Bluff,MS,,32.7847222,-89.4166667
+us,battles,Battles,MS,,31.5016667,-88.5094444
+us,baxter,Baxter,MS,,32.1911111,-89.1697222
+us,baxterville,Baxterville,MS,,31.0838889,-89.5902778
+us,bay saint louis,Bay Saint Louis,MS,8134,30.3086111,-89.3300000
+us,bay springs,Bay Springs,MS,,31.9788889,-89.2872222
+us,bayland,Bayland,MS,,32.8872222,-90.6583333
+us,bayside park,Bayside Park,MS,,30.2825000,-89.4366667
+us,beach,Beach,MS,,32.4963889,-89.6550000
+us,beacon hill,Beacon Hill,MS,,34.4569444,-88.9758333
+us,beans ferry,Beans Ferry,MS,,34.2097222,-88.3850000
+us,bear creek,Bear Creek,MS,,32.0636111,-90.5194444
+us,bear town,Bear Town,MS,,31.2227778,-90.4602778
+us,beardens,Beardens,MS,,31.1827778,-90.3300000
+us,beasley,Beasley,MS,,33.6847222,-88.9291667
+us,beatline,Beatline,MS,,32.6730556,-89.0750000
+us,beatrice,Beatrice,MS,,32.0711111,-88.8808333
+us,beatty,Beatty,MS,,33.2697222,-89.7388889
+us,beaumont,Beaumont,MS,,31.1691667,-88.9200000
+us,beauregard,Beauregard,MS,,31.7216667,-90.3822222
+us,beauvoir,Beauvoir,MS,,30.3936111,-88.9672222
+us,becker,Becker,MS,,33.9330556,-88.4811111
+us,bee lake,Bee Lake,MS,,33.0469444,-90.3252778
+us,beech grove,Beech Grove,MS,,31.9933333,-90.2572222
+us,beech springs,Beech Springs,MS,,34.3213889,-88.7061111
+us,beechwood,Beechwood,MS,,31.1202778,-90.8622222
+us,belden,Belden,MS,,34.3102778,-88.7883333
+us,belen,Belen,MS,,34.2730556,-90.3541667
+us,belle prairie,Belle Prairie,MS,,33.0050000,-90.3861111
+us,bellefontaine,Bellefontaine,MS,,33.6486111,-89.3100000
+us,belleville,Belleville,MS,,31.2122222,-89.1263889
+us,bellevule,Bellevule,MS,,32.5730556,-91.0333333
+us,bellewood,Bellewood,MS,,33.2316667,-90.5591667
+us,bells,Bells,MS,,33.5419444,-88.8841667
+us,belmont,Belmont,MS,,34.5097222,-88.2091667
+us,belpine,Belpine,MS,,32.0550000,-89.9972222
+us,belzoni,Belzoni,MS,,33.1841667,-90.4891667
+us,benela,Benela,MS,,33.8300000,-89.2730556
+us,benjoe,Benjoe,MS,,31.0016667,-88.7730556
+us,benmore,Benmore,MS,,31.2452778,-88.9177778
+us,benndale,Benndale,MS,,30.8713889,-88.8069444
+us,benoit,Benoit,MS,,33.6513889,-91.0094444
+us,benson,Benson,MS,,31.5483333,-89.2188889
+us,bent oak,Bent Oak,MS,,33.4386111,-88.5427778
+us,bently,Bently,MS,,33.7575000,-89.2325000
+us,benton,Benton,MS,,32.8263889,-90.2594444
+us,bentonia,Bentonia,MS,,32.6408333,-90.3647222
+us,benwood,Benwood,MS,,33.9405556,-89.5158333
+us,berclair,Berclair,MS,,33.4716667,-90.3650000
+us,bernard,Bernard,MS,,32.1130556,-90.2586111
+us,berryville,Berryville,MS,,32.7486111,-90.1661111
+us,bertice,Bertice,MS,,32.6236111,-89.6777778
+us,berwick,Berwick,MS,,31.1097222,-90.9294444
+us,bethany,Bethany,MS,,34.5052778,-88.7291667
+us,betheden,Betheden,MS,,33.2197222,-88.9408333
+us,bethel,Bethel,MS,,34.7227778,-89.1358333
+us,bethesda,Bethesda,MS,,32.1369444,-90.3702778
+us,bethlehem,Bethlehem,MS,,34.5783333,-89.3275000
+us,bethsaida,Bethsaida,MS,,32.6761111,-89.0347222
+us,bett,Bett,MS,,34.6922222,-89.7575000
+us,beulah,Beulah,MS,,33.7866667,-90.9797222
+us,beverly,Beverly,MS,,34.1738889,-90.6419444
+us,bew springs,Bew Springs,MS,,33.7861111,-89.8947222
+us,bewelcome,Bewelcome,MS,,31.2186111,-90.9386111
+us,bexley,Bexley,MS,,30.9663889,-88.6741667
+us,bezer,Bezer,MS,,31.9708333,-89.4902778
+us,big black,Big Black,MS,,32.2155556,-90.8397222
+us,big creek,Big Creek,MS,,33.8525000,-89.4111111
+us,big eddy landing,Big Eddy Landing,MS,,32.9394444,-90.7702778
+us,big level,Big Level,MS,,30.8113889,-89.0513889
+us,big point,Big Point,MS,,30.5866667,-88.4819444
+us,bigbee,Bigbee,MS,,34.0161111,-88.5191667
+us,bigbee valley,Bigbee Valley,MS,,33.2480556,-88.3497222
+us,biggersville,Biggersville,MS,,34.8355556,-88.5586111
+us,bilbros corner,Bilbros Corner,MS,,32.4416667,-89.7983333
+us,billups,Billups,MS,,33.4305556,-88.5850000
+us,biloxi,Biloxi,MS,47661,30.3958333,-88.8852778
+us,binford,Binford,MS,,33.7530556,-88.5808333
+us,binnsville,Binnsville,MS,,32.9130556,-88.3827778
+us,birdie,Birdie,MS,,34.3919444,-90.3819444
+us,birmingham,Birmingham,MS,,34.4083333,-88.7691667
+us,bissell,Bissell,MS,,34.2461111,-88.7827778
+us,black bayou,Black Bayou,MS,,33.8186111,-90.2786111
+us,black bayou junction,Black Bayou Junction,MS,,33.7988889,-90.2691667
+us,black hawk,Black Hawk,MS,,33.3261111,-90.0116667
+us,black jack,Black Jack,MS,,34.8769444,-89.0847222
+us,blackland,Blackland,MS,,34.6400000,-88.6658333
+us,blackwater,Blackwater,MS,,34.5552778,-89.5966667
+us,blaine,Blaine,MS,,33.6077778,-90.5225000
+us,blair,Blair,MS,,34.4511111,-88.7369444
+us,blakely,Blakely,MS,,32.4436111,-90.8222222
+us,blakley creek,Blakley Creek,MS,,31.7361111,-89.5694444
+us,blanton,Blanton,MS,,32.7486111,-90.9305556
+us,blissdale,Blissdale,MS,,33.0869444,-90.2208333
+us,blodgett,Blodgett,MS,,31.4613889,-88.9863889
+us,bloody springs,Bloody Springs,MS,,34.5883333,-88.1408333
+us,bloomfield,Bloomfield,MS,,32.7947222,-88.7386111
+us,blounts store,Blounts Store,MS,,32.4072222,-89.0444444
+us,blue hill,Blue Hill,MS,,31.7627778,-90.8575000
+us,blue lake,Blue Lake,MS,,33.8975000,-90.4333333
+us,blue mountain,Blue Mountain,MS,,34.6708333,-89.0263889
+us,blue ridge,Blue Ridge,MS,,31.8958333,-89.1472222
+us,blue springs,Blue Springs,MS,,34.4016667,-88.8727778
+us,blueberry hill,Blueberry Hill,MS,,31.4025000,-90.4441667
+us,bluff,Bluff,MS,,34.6133333,-88.9558333
+us,bluff springs,Bluff Springs,MS,,32.7808333,-88.8152778
+us,blythe crossing,Blythe Crossing,MS,,34.7941667,-88.1683333
+us,blythes chapel,Blythes Chapel,MS,,34.5902778,-88.4638889
+us,bobo,Bobo,MS,,34.1319444,-90.6755556
+us,boggan,Boggan,MS,,31.7947222,-89.8788889
+us,boggan bend,Boggan Bend,MS,,34.4513889,-88.7538889
+us,bogue chitto,Bogue Chitto,MS,,31.4386111,-90.4522222
+us,boice,Boice,MS,,31.7475000,-88.6547222
+us,bolatusha,Bolatusha,MS,,32.9227778,-89.7022222
+us,bolivar,Bolivar,MS,,33.6597222,-91.0530556
+us,bolivar landing,Bolivar Landing,MS,,33.6663889,-91.0544444
+us,bolton,Bolton,MS,,32.3491667,-90.4600000
+us,bommers,Bommers,MS,,33.0555556,-90.6963889
+us,bond,Bond,MS,,32.8586111,-88.9872222
+us,bonhomie,Bonhomie,MS,,31.2888889,-89.3097222
+us,bonita,Bonita,MS,,32.3652778,-88.6658333
+us,bonner,Bonner,MS,,31.8136111,-89.0488889
+us,bonus,Bonus,MS,,31.5861111,-90.8986111
+us,boon,Boon,MS,,33.1005556,-88.9563889
+us,boone,Boone,MS,,34.1316667,-90.5297222
+us,booneville,Booneville,MS,,34.6580556,-88.5666667
+us,booth,Booth,MS,,32.9605556,-90.9316667
+us,bothwell,Bothwell,MS,,31.3275000,-88.7433333
+us,bounds,Bounds,MS,,33.8991667,-89.4569444
+us,bounds crossroads,Bounds Crossroads,MS,,34.3291667,-88.2122222
+us,bourbon,Bourbon,MS,,33.3241667,-90.7986111
+us,bovina,Bovina,MS,,32.3519444,-90.7347222
+us,bowdre,Bowdre,MS,,34.7966667,-90.3322222
+us,bowerton,Bowerton,MS,,31.7561111,-90.5694444
+us,bowie,Bowie,MS,,31.3927778,-89.3716667
+us,bowies chapel,Bowies Chapel,MS,,33.1750000,-89.3436111
+us,bowles,Bowles,MS,,33.3363889,-90.5897222
+us,bowling green,Bowling Green,MS,,33.1625000,-89.9130556
+us,bowman,Bowman,MS,,34.6994444,-89.8455556
+us,boyer,Boyer,MS,,33.5366667,-90.6377778
+us,boyette,Boyette,MS,,33.0219444,-89.8330556
+us,boyle,Boyle,MS,,33.7038889,-90.7263889
+us,bradie,Bradie,MS,,32.2816667,-90.2530556
+us,bradley,Bradley,MS,,33.3744444,-88.9800000
+us,bradley chapel,Bradley Chapel,MS,,32.5125000,-90.6930556
+us,branch,Branch,MS,,32.4302778,-89.7113889
+us,brandon,Brandon,MS,19239,32.2730556,-89.9858333
+us,branyan,Branyan,MS,,34.4513889,-88.8011111
+us,braxton,Braxton,MS,,32.0250000,-89.9702778
+us,brazil,Brazil,MS,,34.0263889,-90.2805556
+us,breland,Breland,MS,,31.3255556,-89.3986111
+us,brewer,Brewer,MS,,34.1477778,-88.6836111
+us,bridgeport,Bridgeport,MS,,31.8236111,-90.0908333
+us,bridges,Bridges,MS,,31.2027778,-90.2502778
+us,bright,Bright,MS,,34.8469444,-89.9202778
+us,bright corner,Bright Corner,MS,,33.5547222,-90.1172222
+us,brighton,Brighton,MS,,33.4786111,-91.0044444
+us,bristers store,Bristers Store,MS,,31.3863889,-90.2325000
+us,bristerville,Bristerville,MS,,31.3800000,-90.2761111
+us,bristow,Bristow,MS,,34.0052778,-88.3638889
+us,brody,Brody,MS,,34.9319444,-89.0700000
+us,brookhaven,Brookhaven,MS,9786,31.5788889,-90.4405556
+us,brookleigh,Brookleigh,MS,,32.2063889,-90.2522222
+us,brooklyn,Brooklyn,MS,,31.0561111,-89.1861111
+us,brooks,Brooks,MS,,33.7961111,-90.4605556
+us,brookside,Brookside,MS,,31.2997222,-90.7525000
+us,brooksville,Brooksville,MS,,33.2344444,-88.5822222
+us,brown town,Brown Town,MS,,31.0711111,-88.4366667
+us,brownfield,Brownfield,MS,,34.9900000,-88.8925000
+us,browning,Browning,MS,,33.5180556,-90.1197222
+us,browns wells,Browns Wells,MS,,31.7750000,-90.5013889
+us,brownsville,Brownsville,MS,,32.4486111,-90.4369444
+us,brozville,Brozville,MS,,33.0330556,-90.1122222
+us,bruce,Bruce,MS,,33.9919444,-89.3488889
+us,bruce junction,Bruce Junction,MS,,33.9644444,-89.6847222
+us,bruinsburg,Bruinsburg,MS,,31.9422222,-91.1572222
+us,brunswick,Brunswick,MS,,32.5544444,-91.0616667
+us,bryant,Bryant,MS,,33.9255556,-89.7033333
+us,buchannan,Buchannan,MS,,34.3388889,-89.0994444
+us,buckatunna,Buckatunna,MS,,31.5388889,-88.5288889
+us,buckhorn,Buckhorn,MS,,34.0925000,-89.1575000
+us,buckleytown,Buckleytown,MS,,32.3036111,-89.3608333
+us,bude,Bude,MS,,31.4627778,-90.8500000
+us,buena vista,Buena Vista,MS,,33.8844444,-88.8380556
+us,buena vista lakes,Buena Vista Lakes,MS,,34.7347222,-90.0069444
+us,bugh,Bugh,MS,,33.3661111,-89.0016667
+us,bulah,Bulah,MS,,30.4936111,-89.0716667
+us,bunker hill,Bunker Hill,MS,,31.3875000,-89.8033333
+us,bunkley,Bunkley,MS,,31.3622222,-90.9908333
+us,burdette,Burdette,MS,,33.3483333,-90.9147222
+us,burgess,Burgess,MS,,34.3413889,-89.6680556
+us,burke landing,Burke Landing,MS,,34.2702778,-90.7883333
+us,burnell,Burnell,MS,,31.8088889,-90.7475000
+us,burns,Burns,MS,,32.1352778,-89.5477778
+us,burnside,Burnside,MS,,32.8533333,-89.1033333
+us,burnsville,Burnsville,MS,,34.8405556,-88.3147222
+us,burt,Burt,MS,,34.4955556,-89.3333333
+us,burton,Burton,MS,,34.6380556,-88.3394444
+us,busey,Busey,MS,,33.5586111,-90.8633333
+us,bush,Bush,MS,,31.8619444,-89.9866667
+us,busy corner,Busy Corner,MS,,31.2786111,-90.8633333
+us,butler,Butler,MS,,33.2275000,-90.2988889
+us,buxton,Buxton,MS,,34.5477778,-90.1977778
+us,byhalia,Byhalia,MS,,34.8722222,-89.6905556
+us,bynum,Bynum,MS,,31.3941667,-89.5419444
+us,byram,Byram,MS,,32.1791667,-90.2452778
+us,byrd,Byrd,MS,,31.2200000,-88.7397222
+us,byrne city,Byrne City,MS,,33.0927778,-91.0980556
+us,bywy,Bywy,MS,,33.4372222,-89.2411111
+us,cadamy,Cadamy,MS,,34.1813889,-88.2591667
+us,cadaretta,Cadaretta,MS,,33.7061111,-89.4511111
+us,cadillac,Cadillac,MS,,31.6513889,-91.1102778
+us,caesar,Caesar,MS,,30.5841667,-89.5466667
+us,caile,Caile,MS,,33.3000000,-90.5900000
+us,cairo,Cairo,MS,,33.6700000,-88.8975000
+us,caledonia,Caledonia,MS,,33.6827778,-88.3244444
+us,calhoun,Calhoun,MS,,31.6958333,-89.2052778
+us,calhoun city,Calhoun City,MS,,33.8552778,-89.3113889
+us,calvary,Calvary,MS,,33.0888889,-89.1263889
+us,calyx,Calyx,MS,,32.9502778,-88.4950000
+us,cam,Cam,MS,,31.5577778,-90.3875000
+us,camden,Camden,MS,,32.7822222,-89.8386111
+us,cameron,Cameron,MS,,32.8355556,-89.8838889
+us,cameta,Cameta,MS,,33.0077778,-90.8411111
+us,camp ground,Camp Ground,MS,,34.1888889,-89.6444444
+us,campbellville,Campbellville,MS,,32.8122222,-90.6952778
+us,canaan,Canaan,MS,,34.9302778,-89.1266667
+us,cannonsburg,Cannonsburg,MS,,31.6336111,-91.2111111
+us,canton,Canton,MS,12759,32.6125000,-90.0366667
+us,cantwell mill,Cantwell Mill,MS,,31.5088889,-89.6900000
+us,capell,Capell,MS,,31.0247222,-90.9877778
+us,cardsville,Cardsville,MS,,34.1555556,-88.4025000
+us,carlisle,Carlisle,MS,,32.0025000,-90.7844444
+us,carlos,Carlos,MS,,31.6180556,-90.3791667
+us,carmack,Carmack,MS,,33.2402778,-89.6625000
+us,carmich,Carmich,MS,,31.3838889,-89.9850000
+us,carmichael,Carmichael,MS,,31.9513889,-88.5847222
+us,carnes,Carnes,MS,,30.9933333,-89.2597222
+us,carolina,Carolina,MS,,34.1183333,-88.4819444
+us,carpenter,Carpenter,MS,,32.0338889,-90.6802778
+us,carriere,Carriere,MS,,30.6166667,-89.6525000
+us,carrollton,Carrollton,MS,,33.5080556,-89.9202778
+us,carson,Carson,MS,,31.5377778,-89.7950000
+us,carson city,Carson City,MS,,31.3672222,-88.6638889
+us,carter,Carter,MS,,34.4416667,-90.4652778
+us,carter branch,Carter Branch,MS,,34.6627778,-88.1644444
+us,carters,Carters,MS,,32.7608333,-88.5619444
+us,carterville,Carterville,MS,,31.3197222,-89.2461111
+us,carthage,Carthage,MS,,32.7325000,-89.5361111
+us,carto,Carto,MS,,31.1211111,-90.0780556
+us,cary,Cary,MS,,32.8058333,-90.9266667
+us,cascilla,Cascilla,MS,,33.8566667,-90.0041667
+us,caseyville,Caseyville,MS,,31.6727778,-90.6555556
+us,cash,Cash,MS,,32.5672222,-89.5719444
+us,castalian springs,Castalian Springs,MS,,33.0727778,-89.9041667
+us,castleman,Castleman,MS,,33.2036111,-90.5186111
+us,catahoula,Catahoula,MS,,30.4930556,-89.4955556
+us,catfish point landing,Catfish Point Landing,MS,,33.7022222,-91.1633333
+us,cato,Cato,MS,,32.0900000,-89.8780556
+us,cayce,Cayce,MS,,34.9552778,-89.6180556
+us,cayuga,Cayuga,MS,,32.1591667,-90.6938889
+us,cedar bluff,Cedar Bluff,MS,,33.5866667,-88.8322222
+us,cedar cove,Cedar Cove,MS,,34.1888889,-88.7652778
+us,cedar grove,Cedar Grove,MS,,32.3488889,-89.1858333
+us,cedar hill,Cedar Hill,MS,,33.5650000,-89.5866667
+us,cedar lake,Cedar Lake,MS,,30.4680556,-88.9380556
+us,cedars,Cedars,MS,,32.2505556,-90.9252778
+us,cedarview,Cedarview,MS,,34.9136111,-89.8319444
+us,center,Center,MS,,34.4658333,-88.9269444
+us,center grove,Center Grove,MS,,33.5088889,-89.0250000
+us,center hill,Center Hill,MS,,32.5222222,-88.7644444
+us,center point,Center Point,MS,,31.3994444,-90.6158333
+us,center ridge,Center Ridge,MS,,32.4250000,-88.9513889
+us,centerville,Centerville,MS,,33.4541667,-90.0350000
+us,central,Central,MS,,30.8811111,-88.6541667
+us,central academy,Central Academy,MS,,34.3047222,-89.8169444
+us,central grove,Central Grove,MS,,34.0088889,-88.6055556
+us,centreville,Centreville,MS,,31.0894444,-91.0683333
+us,cessions landing,Cessions Landing,MS,,34.0969444,-90.8802778
+us,chalybeate,Chalybeate,MS,,34.9302778,-88.8680556
+us,champion hill,Champion Hill,MS,,32.3500000,-90.5372222
+us,chancellor,Chancellor,MS,,32.0102778,-88.6297222
+us,chancy,Chancy,MS,,34.1208333,-90.2811111
+us,chapel hill,Chapel Hill,MS,,32.1141667,-90.5136111
+us,chapel landing,Chapel Landing,MS,,32.9388889,-90.7869444
+us,chapeltown,Chapeltown,MS,,34.2616667,-90.0283333
+us,chapelville,Chapelville,MS,,34.4400000,-88.5908333
+us,charleston,Charleston,MS,,34.0066667,-90.0566667
+us,charlton,Charlton,MS,,32.5816667,-90.1283333
+us,chatawa,Chatawa,MS,,31.0602778,-90.4722222
+us,chatham,Chatham,MS,,33.1005556,-91.0977778
+us,cheraw,Cheraw,MS,,31.1555556,-89.8433333
+us,cherry creek,Cherry Creek,MS,,34.3505556,-88.9875000
+us,chester,Chester,MS,,33.3586111,-89.2383333
+us,chesterville,Chesterville,MS,,34.2863889,-88.8255556
+us,chicora,Chicora,MS,,31.5636111,-88.5752778
+us,china grove,China Grove,MS,,31.2125000,-90.0533333
+us,chinquapin,Chinquapin,MS,,30.7347222,-89.7738889
+us,chiwapa,Chiwapa,MS,,34.1813889,-88.9308333
+us,choctaw,Choctaw,MS,,33.1727778,-90.3044444
+us,choctaw landing,Choctaw Landing,MS,,32.8697222,-90.8088889
+us,chotard,Chotard,MS,,32.5905556,-91.0222222
+us,christmas,Christmas,MS,,33.7763889,-90.9783333
+us,chulahoma,Chulahoma,MS,,34.6536111,-89.6302778
+us,chunky,Chunky,MS,,32.3255556,-88.9280556
+us,clack,Clack,MS,,34.8458333,-90.2930556
+us,clara,Clara,MS,,31.5802778,-88.6963889
+us,claremont,Claremont,MS,,34.1205556,-90.5238889
+us,clark,Clark,MS,,31.2880556,-88.5738889
+us,clarkburg,Clarkburg,MS,,32.3300000,-89.7294444
+us,clarksdale,Clarksdale,MS,19143,34.2000000,-90.5708333
+us,clarkson,Clarkson,MS,,33.6352778,-89.1494444
+us,clarysville,Clarysville,MS,,34.6438889,-88.9116667
+us,clay,Clay,MS,,34.2700000,-88.3372222
+us,clayton,Clayton,MS,,34.6000000,-90.4163889
+us,clayton village,Clayton Village,MS,,33.4738889,-88.7558333
+us,claytown,Claytown,MS,,32.9763889,-88.9663889
+us,clear branch,Clear Branch,MS,,32.0750000,-90.1930556
+us,clear springs,Clear Springs,MS,,32.1438889,-89.3438889
+us,clearman,Clearman,MS,,32.9647222,-88.6569444
+us,cleary,Cleary,MS,,32.1652778,-90.1805556
+us,clem,Clem,MS,,31.7108333,-89.7877778
+us,cleo,Cleo,MS,,31.7002778,-89.0366667
+us,clermont harbor,Clermont Harbor,MS,,30.2613889,-89.4161111
+us,cletonia,Cletonia,MS,,33.1505556,-90.8472222
+us,cleveland,Cleveland,MS,12763,33.7438889,-90.7247222
+us,cleveland crossing,Cleveland Crossing,MS,,33.7472222,-90.7975000
+us,cliff williams,Cliff Williams,MS,,32.2958333,-88.6027778
+us,clifford,Clifford,MS,,33.8236111,-90.8850000
+us,clifton,Clifton,MS,,31.8347222,-91.0444444
+us,cliftonville,Cliftonville,MS,,33.2355556,-88.4250000
+us,clinton,Clinton,MS,24583,32.3413889,-90.3216667
+us,clover hill,Clover Hill,MS,,34.2750000,-90.5441667
+us,cloverdale,Cloverdale,MS,,31.4977778,-91.4205556
+us,clyde,Clyde,MS,,31.3500000,-89.4677778
+us,coahoma,Coahoma,MS,,34.3666667,-90.5230556
+us,coal oil corner,Coal Oil Corner,MS,,34.8683333,-89.6705556
+us,coalville,Coalville,MS,,30.4625000,-89.0013889
+us,coats,Coats,MS,,31.8458333,-89.7047222
+us,cobbs,Cobbs,MS,,31.5597222,-90.5744444
+us,cobbville,Cobbville,MS,,32.6719444,-90.0066667
+us,cockrum,Cockrum,MS,,34.8027778,-89.8119444
+us,coffeeville,Coffeeville,MS,,33.9766667,-89.6755556
+us,cohay,Cohay,MS,,31.9280556,-89.5969444
+us,coila,Coila,MS,,33.3952778,-89.9711111
+us,colby,Colby,MS,,32.8783333,-90.6858333
+us,cold springs,Cold Springs,MS,,31.6186111,-89.5444444
+us,coldwater,Coldwater,MS,,34.6916667,-89.9772222
+us,coles,Coles,MS,,31.2772222,-91.0316667
+us,coll town,Coll Town,MS,,30.5119444,-88.5505556
+us,college hill,College Hill,MS,,34.4216667,-89.5705556
+us,collins,Collins,MS,,31.6452778,-89.5552778
+us,collins crossing,Collins Crossing,MS,,34.8075000,-88.7241667
+us,collinstown,Collinstown,MS,,34.8075000,-88.7327778
+us,collinsville,Collinsville,MS,,32.4977778,-88.8458333
+us,columbia,Columbia,MS,,31.2516667,-89.8375000
+us,columbus,Columbus,MS,24386,33.4955556,-88.4272222
+us,commerce,Commerce,MS,,34.8177778,-90.3708333
+us,commerce landing,Commerce Landing,MS,,34.8319444,-90.3847222
+us,como,Como,MS,,34.5105556,-89.9397222
+us,complete,Complete,MS,,32.3786111,-88.7291667
+us,compromise,Compromise,MS,,31.2005556,-90.8863889
+us,concord,Concord,MS,,34.5536111,-88.9825000
+us,concordia,Concordia,MS,,33.9775000,-90.9505556
+us,conehatta,Conehatta,MS,,32.4511111,-89.2852778
+us,conerly,Conerly,MS,,31.1747222,-90.2894444
+us,conn,Conn,MS,,31.8977778,-90.7100000
+us,contrell,Contrell,MS,,32.5466667,-89.6177778
+us,conway,Conway,MS,,32.8561111,-89.5900000
+us,cooks landing,Cooks Landing,MS,,34.9311111,-88.1666667
+us,cooksville,Cooksville,MS,,32.9836111,-88.3588889
+us,cooley springs,Cooley Springs,MS,,31.7088889,-89.6686111
+us,cooperville,Cooperville,MS,,32.2405556,-89.7130556
+us,coosa,Coosa,MS,,32.8422222,-89.4222222
+us,coral,Coral,MS,,31.3861111,-89.5297222
+us,corinth,Corinth,MS,14168,34.9341667,-88.5222222
+us,cornersville,Cornersville,MS,,34.5388889,-89.2555556
+us,cornish,Cornish,MS,,34.2680556,-89.3583333
+us,corrona,Corrona,MS,,34.4700000,-88.7672222
+us,cotton hill gin estates,Cotton Hill Gin Estates,MS,,33.9777778,-88.5680556
+us,cotton plant,Cotton Plant,MS,,34.6002778,-89.0044444
+us,cottondale,Cottondale,MS,,33.6900000,-90.5427778
+us,cottonville,Cottonville,MS,,34.6594444,-90.1847222
+us,country club subdivision,Country Club Subdivision,MS,,33.4233333,-88.8063889
+us,country oak estates,Country Oak Estates,MS,,34.2361111,-88.8325000
+us,counts,Counts,MS,,34.0694444,-90.5597222
+us,courtland,Courtland,MS,,34.2408333,-89.9427778
+us,cowanville,Cowanville,MS,,31.7550000,-90.1597222
+us,cowart,Cowart,MS,,33.9850000,-90.1777778
+us,coxburg,Coxburg,MS,,32.9983333,-90.2100000
+us,coy,Coy,MS,,32.9033333,-88.9147222
+us,craig,Craig,MS,,32.9300000,-90.5958333
+us,craig springs,Craig Springs,MS,,33.3150000,-88.9227778
+us,craigside,Craigside,MS,,33.5886111,-90.1936111
+us,crandall,Crandall,MS,,31.9744444,-88.5322222
+us,crane creek,Crane Creek,MS,,30.6097222,-89.3847222
+us,cranfield,Cranfield,MS,,31.5438889,-91.2058333
+us,crawford,Crawford,MS,,33.3013889,-88.6147222
+us,crenfree,Crenfree,MS,,33.5808333,-90.1116667
+us,crenshaw,Crenshaw,MS,,34.5025000,-90.1986111
+us,crockett,Crockett,MS,,34.6194444,-90.0833333
+us,crosby,Crosby,MS,,31.2836111,-91.0630556
+us,cross roads,Cross Roads,MS,,32.2486111,-89.7708333
+us,crossgates,Crossgates,MS,,32.2944444,-90.0250000
+us,crossroad,Crossroad,MS,,32.8838889,-89.4944444
+us,crossroads,Crossroads,MS,,32.7588889,-88.9483333
+us,crotts,Crotts,MS,,31.5569444,-89.0838889
+us,crow,Crow,MS,,34.8333333,-88.7013889
+us,crowder,Crowder,MS,,34.1733333,-90.1375000
+us,cruger,Cruger,MS,,33.3208333,-90.2322222
+us,crump,Crump,MS,,32.9888889,-90.4194444
+us,crumtown,Crumtown,MS,,34.8391667,-88.7333333
+us,crupp,Crupp,MS,,32.7852778,-90.4663889
+us,crystal springs,Crystal Springs,MS,,31.9872222,-90.3569444
+us,cub lake,Cub Lake,MS,,34.7863889,-90.1491667
+us,cuba,Cuba,MS,,34.9750000,-88.6944444
+us,cuevas,Cuevas,MS,,30.3625000,-89.2180556
+us,culkin,Culkin,MS,,32.3680556,-90.8180556
+us,cullum,Cullum,MS,,32.6405556,-88.6080556
+us,cumberland,Cumberland,MS,,33.6202778,-89.0791667
+us,currie,Currie,MS,,31.0694444,-89.1847222
+us,curtis station,Curtis Station,MS,,34.3400000,-90.1391667
+us,cybur,Cybur,MS,,30.6277778,-89.7708333
+us,cyclone,Cyclone,MS,,31.8702778,-89.8000000
+us,cynthia,Cynthia,MS,,32.4027778,-90.2488889
+us,cypress corner,Cypress Corner,MS,,34.5541667,-90.0930556
+us,d'iberville,D'Iberville,MS,,30.4261111,-88.8908333
+us,d'lo,D'Lo,MS,,31.9855556,-89.9011111
+us,dabney crossroads,Dabney Crossroads,MS,,32.0861111,-90.4277778
+us,dahomy,Dahomy,MS,,33.6744444,-90.9850000
+us,dale,Dale,MS,,30.8347222,-88.7830556
+us,daleville,Daleville,MS,,32.5697222,-88.6761111
+us,dallas jones crossing,Dallas Jones Crossing,MS,,34.2219444,-89.6427778
+us,damascus,Damascus,MS,,32.6575000,-88.8338889
+us,dancy,Dancy,MS,,33.6694444,-89.0588889
+us,danforth,Danforth,MS,,34.4638889,-90.5038889
+us,daniel,Daniel,MS,,32.1280556,-89.7208333
+us,dantzler,Dantzler,MS,,30.7127778,-88.8755556
+us,darbun,Darbun,MS,,31.2761111,-90.0469444
+us,darden,Darden,MS,,34.5030556,-89.1936111
+us,darling,Darling,MS,,34.3588889,-90.2741667
+us,darlove,Darlove,MS,,33.2319444,-90.7844444
+us,darracott,Darracott,MS,,33.7236111,-88.5319444
+us,darrington,Darrington,MS,,31.3066667,-91.2355556
+us,davis,Davis,MS,,32.0397222,-88.6750000
+us,davo,Davo,MS,,31.1058333,-90.1111111
+us,days,Days,MS,,34.9111111,-90.0777778
+us,de buys,De Buys,MS,,30.3930556,-88.9986111
+us,de kalb,De Kalb,MS,,32.7675000,-88.6508333
+us,de lisle,De Lisle,MS,,30.3791667,-89.2644444
+us,de soto,De Soto,MS,,31.9736111,-88.7133333
+us,deweese,DeWeese,MS,,32.7100000,-88.9375000
+us,dean landing,Dean Landing,MS,,30.7811111,-88.4725000
+us,deans corner,Deans Corner,MS,,34.8752778,-90.0777778
+us,deasonville,Deasonville,MS,,32.7922222,-90.0927778
+us,decatur,Decatur,MS,,32.4388889,-89.1083333
+us,dedeaux,Dedeaux,MS,,30.4986111,-89.3394444
+us,dedwylder,Dedwylder,MS,,31.9575000,-88.8055556
+us,deemer,Deemer,MS,,32.7452778,-89.1180556
+us,deen,Deen,MS,,31.5533333,-89.6780556
+us,deep creek,Deep Creek,MS,,30.9197222,-88.9163889
+us,deerbrook,Deerbrook,MS,,33.2352778,-88.4866667
+us,deerfield,Deerfield,MS,,32.5191667,-90.0283333
+us,dees landing,Dees Landing,MS,,30.5236111,-88.6808333
+us,deeson,Deeson,MS,,34.0230556,-90.8594444
+us,delay,Delay,MS,,34.2488889,-89.4038889
+us,delta,Delta,MS,,34.4044444,-90.5722222
+us,delta city,Delta City,MS,,33.0738889,-90.7950000
+us,denham,Denham,MS,,31.6536111,-88.5255556
+us,denmark,Denmark,MS,,34.3108333,-89.3466667
+us,dennis,Dennis,MS,,34.5586111,-88.2261111
+us,dennis crossroads,Dennis Crossroads,MS,,31.7580556,-90.9594444
+us,dennis landing,Dennis Landing,MS,,34.0186111,-90.9280556
+us,dennis settlement,Dennis Settlement,MS,,32.3608333,-89.3491667
+us,denton,Denton,MS,,34.1461111,-90.3125000
+us,dentontown,Dentontown,MS,,33.7408333,-89.4427778
+us,dentville,Dentville,MS,,31.9597222,-90.5552778
+us,deovolente,Deovolente,MS,,33.2191667,-90.4500000
+us,derby,Derby,MS,,30.7594444,-89.5830556
+us,derma,Derma,MS,,33.8555556,-89.2844444
+us,devoe,Devoe,MS,,32.2111111,-88.6652778
+us,dexter,Dexter,MS,,31.0741667,-89.9927778
+us,diamondhead,Diamondhead,MS,,30.3944444,-89.3638889
+us,dick,Dick,MS,,31.3944444,-90.8416667
+us,dickerson,Dickerson,MS,,34.3211111,-90.6363889
+us,dillon,Dillon,MS,,31.0222222,-90.2233333
+us,dinan,Dinan,MS,,31.2172222,-90.1925000
+us,dinsmore,Dinsmore,MS,,33.0888889,-88.3530556
+us,distall,Distall,MS,,33.8583333,-90.1813889
+us,dixie,Dixie,MS,,31.2150000,-89.3036111
+us,dixie pine,Dixie Pine,MS,,31.2947222,-89.2700000
+us,dixon,Dixon,MS,,32.3255556,-90.2525000
+us,dockery,Dockery,MS,,33.7286111,-90.6166667
+us,dodds,Dodds,MS,,33.0027778,-89.5625000
+us,doddsville,Doddsville,MS,,33.6575000,-90.5247222
+us,dogtown,Dogtown,MS,,34.2647222,-89.2858333
+us,dogwood landing,Dogwood Landing,MS,,32.9527778,-90.7850000
+us,doloroso,Doloroso,MS,,31.3050000,-91.3594444
+us,donegal,Donegal,MS,,31.0558333,-91.3769444
+us,donohoe,Donohoe,MS,,32.3513889,-89.3825000
+us,dooley,Dooley,MS,,34.6705556,-90.2369444
+us,dorsey,Dorsey,MS,,34.2519444,-88.5097222
+us,doskie,Doskie,MS,,34.9058333,-88.2950000
+us,dossville,Dossville,MS,,32.9305556,-89.5497222
+us,double springs,Double Springs,MS,,33.4813889,-89.0608333
+us,dover,Dover,MS,,32.5841667,-89.2141667
+us,dowdville,Dowdville,MS,,32.6858333,-89.3036111
+us,dowell,Dowell,MS,,32.9011111,-89.5633333
+us,dragon,Dragon,MS,,31.3775000,-89.2663889
+us,drew,Drew,MS,,33.8094444,-90.5263889
+us,dry creek,Dry Creek,MS,,34.6680556,-88.7361111
+us,dry grove,Dry Grove,MS,,32.1288889,-90.4363889
+us,drysdale,Drysdale,MS,,32.6916667,-89.6341667
+us,dubard,Dubard,MS,,33.7763889,-89.9186111
+us,dubbs,Dubbs,MS,,34.5683333,-90.3736111
+us,dublin,Dublin,MS,,34.0722222,-90.4905556
+us,duck hill,Duck Hill,MS,,33.6330556,-89.7111111
+us,dueitt,Dueitt,MS,,31.1505556,-88.5344444
+us,duffee,Duffee,MS,,32.4891667,-88.9269444
+us,duke,Duke,MS,,32.1127778,-90.7172222
+us,dulweber,Dulweber,MS,,33.3416667,-90.2372222
+us,dumas,Dumas,MS,,34.6402778,-88.8438889
+us,duncan,Duncan,MS,,34.0444444,-90.7447222
+us,dundee,Dundee,MS,,34.5241667,-90.4555556
+us,dunkirk,Dunkirk,MS,,33.4572222,-90.8816667
+us,dunleith,Dunleith,MS,,33.4358333,-90.8205556
+us,durant,Durant,MS,,33.0750000,-89.8544444
+us,durham,Durham,MS,,34.1533333,-90.5430556
+us,dwiggins,Dwiggins,MS,,33.8455556,-90.5813889
+us,dwyer,Dwyer,MS,,33.5641667,-90.5286111
+us,dykes crossing,Dykes Crossing,MS,,31.0977778,-90.2852778
+us,eagle bend,Eagle Bend,MS,,32.5202778,-91.0066667
+us,eagle landing,Eagle Landing,MS,,34.5344444,-90.5447222
+us,eagles nest,Eagles Nest,MS,,34.2919444,-90.4672222
+us,early grove,Early Grove,MS,,34.9758333,-89.3847222
+us,earlyville,Earlyville,MS,,33.0769444,-89.7097222
+us,east aberdeen,East Aberdeen,MS,,33.8216667,-88.5163889
+us,east enterprise,East Enterprise,MS,,32.1722222,-88.8083333
+us,east fork,East Fork,MS,,31.2030556,-90.6683333
+us,east hillsboro,East Hillsboro,MS,,32.4525000,-89.4838889
+us,east lincoln,East Lincoln,MS,,31.4850000,-90.2919444
+us,east macedonia,East Macedonia,MS,,33.0155556,-89.3458333
+us,east moss point,East Moss Point,MS,,30.4133333,-88.4916667
+us,east pascagoula,East Pascagoula,MS,,30.3452778,-88.5452778
+us,east prentiss,East Prentiss,MS,,34.5297222,-88.3694444
+us,east side,East Side,MS,,31.3547222,-88.9111111
+us,eastabuchie,Eastabuchie,MS,,31.4352778,-89.2833333
+us,eastland,Eastland,MS,,33.6505556,-90.5219444
+us,eastman,Eastman,MS,,34.3383333,-88.2361111
+us,eastport,Eastport,MS,,34.8855556,-88.1005556
+us,eastside,Eastside,MS,,31.2819444,-89.1936111
+us,eastview,Eastview,MS,,31.6969444,-89.0911111
+us,eatonville,Eatonville,MS,,31.4138889,-89.3291667
+us,ebenezer,Ebenezer,MS,,32.9705556,-90.0908333
+us,ecru,Ecru,MS,,34.3530556,-89.0230556
+us,eddiceton,Eddiceton,MS,,31.5019444,-90.7913889
+us,eden,Eden,MS,,32.9847222,-90.3233333
+us,edgewater park,Edgewater Park,MS,,30.3933333,-88.9869444
+us,edinburg,Edinburg,MS,,32.7991667,-89.3361111
+us,edna,Edna,MS,,31.1769444,-89.7861111
+us,edsville,Edsville,MS,,33.1725000,-89.8333333
+us,edwards,Edwards,MS,,32.3300000,-90.6055556
+us,effie,Effie,MS,,33.9347222,-90.1772222
+us,eggville,Eggville,MS,,34.3308333,-88.5683333
+us,egremont,Egremont,MS,,32.8605556,-90.9033333
+us,egypt,Egypt,MS,,33.8983333,-88.7297222
+us,egypt hill,Egypt Hill,MS,,32.0100000,-90.2622222
+us,eldorado,Eldorado,MS,,32.5794444,-90.6594444
+us,eldridge,Eldridge,MS,,34.1113889,-90.8411111
+us,electric mills,Electric Mills,MS,,32.7691667,-88.4638889
+us,eliphaz,Eliphaz,MS,,34.6555556,-90.1186111
+us,elizabeth,Elizabeth,MS,,33.4236111,-90.8811111
+us,ellard,Ellard,MS,,34.0158333,-89.4147222
+us,elleslie,Elleslie,MS,,32.8730556,-91.0513889
+us,elliott,Elliott,MS,,33.6833333,-89.7491667
+us,ellis cliffs,Ellis Cliffs,MS,,31.4013889,-91.4519444
+us,ellison ridge,Ellison Ridge,MS,,33.0677778,-88.8811111
+us,ellistown,Ellistown,MS,,34.4447222,-88.8408333
+us,ellisville,Ellisville,MS,,31.6038889,-89.1955556
+us,ellwood landing,Ellwood Landing,MS,,32.7055556,-90.6872222
+us,elmo,Elmo,MS,,31.6216667,-90.9383333
+us,elton,Elton,MS,,32.2208333,-90.2191667
+us,elwood,Elwood,MS,,32.0180556,-88.8016667
+us,embry,Embry,MS,,33.6561111,-89.3688889
+us,emerald,Emerald,MS,,31.0769444,-90.3636111
+us,eminence,Eminence,MS,,31.6127778,-89.4338889
+us,emmanuel,Emmanuel,MS,,31.3066667,-89.8202778
+us,emory,Emory,MS,,33.2525000,-89.9238889
+us,empire,Empire,MS,,33.2188889,-90.8313889
+us,endville,Endville,MS,,34.3222222,-88.8830556
+us,energy,Energy,MS,,32.1794444,-88.5497222
+us,enid,Enid,MS,,34.1163889,-89.9397222
+us,enola,Enola,MS,,32.7272222,-90.5847222
+us,enon,Enon,MS,,31.3036111,-90.2230556
+us,enondale,Enondale,MS,,32.6352778,-88.4683333
+us,enterprise,Enterprise,MS,,32.1741667,-88.8313889
+us,enzor,Enzor,MS,,32.3116667,-88.6197222
+us,epley,Epley,MS,,31.3763889,-89.5111111
+us,epps,Epps,MS,,31.1308333,-89.1958333
+us,eret,Eret,MS,,31.4700000,-88.4822222
+us,errata,Errata,MS,,31.7586111,-89.0600000
+us,erwin,Erwin,MS,,33.1038889,-91.0436111
+us,escatawpa,Escatawpa,MS,,30.4402778,-88.5436111
+us,eskridge,Eskridge,MS,,33.5752778,-89.7008333
+us,esperanza,Esperanza,MS,,34.3577778,-89.1608333
+us,essex,Essex,MS,,34.3297222,-90.2747222
+us,estes,Estes,MS,,33.0611111,-89.0491667
+us,estesmill,Estesmill,MS,,32.6505556,-89.4700000
+us,estill,Estill,MS,,33.2180556,-90.8708333
+us,ethel,Ethel,MS,,33.1202778,-89.4658333
+us,etta,Etta,MS,,34.4702778,-89.2275000
+us,eucutta,Eucutta,MS,,31.8050000,-88.8722222
+us,eudora,Eudora,MS,,34.8302778,-90.1491667
+us,eulogy,Eulogy,MS,,33.0336111,-90.1747222
+us,eunice,Eunice,MS,,31.2891667,-90.9744444
+us,eupora,Eupora,MS,,33.5405556,-89.2669444
+us,eureka,Eureka,MS,,32.5088889,-89.7858333
+us,eureka springs,Eureka Springs,MS,,34.2436111,-89.8644444
+us,eutaw,Eutaw,MS,,33.6586111,-91.1505556
+us,eutaw landing,Eutaw Landing,MS,,33.6516667,-91.1700000
+us,evans,Evans,MS,,32.8530556,-90.1747222
+us,evanston,Evanston,MS,,30.9072222,-88.5636111
+us,evansville,Evansville,MS,,34.6269444,-90.2158333
+us,everett,Everett,MS,,32.0275000,-89.8222222
+us,evergreen,Evergreen,MS,,34.1619444,-88.5113889
+us,expose,Expose,MS,,31.3227778,-89.8633333
+us,fair oak springs,Fair Oak Springs,MS,,31.5544444,-90.3202778
+us,fair river,Fair River,MS,,31.5458333,-90.2691667
+us,fairchilds crossroads,Fairchilds Crossroads,MS,,32.2047222,-90.4727778
+us,fairfield,Fairfield,MS,,34.4219444,-88.8416667
+us,fairhaven,Fairhaven,MS,,34.9338889,-89.7986111
+us,fairhill,Fairhill,MS,,32.9441667,-88.6650000
+us,fairview,Fairview,MS,,34.4000000,-89.0869444
+us,fairview landing,Fairview Landing,MS,,32.7483333,-90.7016667
+us,faisonia,Faisonia,MS,,33.5055556,-90.6319444
+us,falcon,Falcon,MS,,34.3930556,-90.2563889
+us,falkner,Falkner,MS,,34.8419444,-88.9341667
+us,fame,Fame,MS,,33.6638889,-89.2013889
+us,famosla,Famosla,MS,,33.2386111,-90.3900000
+us,fannin,Fannin,MS,,32.4172222,-89.9566667
+us,fanning,Fanning,MS,,31.0597222,-89.5444444
+us,farmhaven,Farmhaven,MS,,32.6475000,-89.8105556
+us,farmington,Farmington,MS,,34.9300000,-88.4522222
+us,farrell,Farrell,MS,,34.2641667,-90.6722222
+us,fawn meadows,Fawn Meadows,MS,,34.2333333,-88.8625000
+us,fayette,Fayette,MS,,31.7113889,-91.0605556
+us,fayettehill,Fayettehill,MS,,31.9605556,-89.7688889
+us,fearns springs,Fearns Springs,MS,,33.0069444,-88.8458333
+us,fellowship,Fellowship,MS,,32.1950000,-88.9405556
+us,fenton,Fenton,MS,,30.4147222,-89.3808333
+us,fentress,Fentress,MS,,33.2966667,-89.2222222
+us,fenwick,Fenwick,MS,,31.5558333,-91.2488889
+us,ferguson,Ferguson,MS,,31.6322222,-90.0816667
+us,fernwood,Fernwood,MS,,31.1852778,-90.4488889
+us,fewell,Fewell,MS,,34.0611111,-90.3561111
+us,fikestown,Fikestown,MS,,32.3033333,-89.4036111
+us,fitler,Fitler,MS,,32.7252778,-91.0336111
+us,fitzhugh,Fitzhugh,MS,,33.8883333,-90.5086111
+us,flat rock,Flat Rock,MS,,31.4075000,-91.0930556
+us,flat top,Flat Top,MS,,30.4797222,-89.5955556
+us,flatwood,Flatwood,MS,,34.3888889,-89.1286111
+us,flautt,Flautt,MS,,33.8972222,-90.3850000
+us,flinn,Flinn,MS,,34.0461111,-88.4291667
+us,flint hill,Flint Hill,MS,,33.7161111,-88.2755556
+us,flora,Flora,MS,,32.5430556,-90.3091667
+us,florence,Florence,MS,,32.1533333,-90.1311111
+us,flowerdale,Flowerdale,MS,,34.2850000,-88.7375000
+us,floweree,Floweree,MS,,32.5441667,-90.8500000
+us,flowers,Flowers,MS,,31.0566667,-90.0136111
+us,flowood,Flowood,MS,,32.3094444,-90.1388889
+us,floyd,Floyd,MS,,33.2558333,-90.7319444
+us,flynt,Flynt,MS,,31.6980556,-89.1841667
+us,foltz,Foltz,MS,,33.4341667,-89.7441667
+us,foote,Foote,MS,,33.0913889,-91.0327778
+us,ford,Ford,MS,,30.4250000,-88.5230556
+us,fords creek,Fords Creek,MS,,30.9483333,-89.6897222
+us,fordyke,Fordyke,MS,,32.9050000,-90.1275000
+us,forest,Forest,MS,,32.3644444,-89.4741667
+us,forest grove,Forest Grove,MS,,32.7305556,-89.7127778
+us,forest hill,Forest Hill,MS,,32.2652778,-90.2808333
+us,forestdale,Forestdale,MS,,32.7788889,-88.9488889
+us,forkland,Forkland,MS,,33.5263889,-91.0141667
+us,forkville,Forkville,MS,,32.4605556,-89.6608333
+us,forreston,Forreston,MS,,33.3372222,-88.3136111
+us,fort adams,Fort Adams,MS,,31.0863889,-91.5480556
+us,fort loring,Fort Loring,MS,,33.5066667,-90.2513889
+us,fort loring landing,Fort Loring Landing,MS,,33.4891667,-90.2466667
+us,fortenberry,Fortenberry,MS,,31.3072222,-89.8552778
+us,foster,Foster,MS,,31.6002778,-91.3288889
+us,fouke,Fouke,MS,,32.0288889,-89.1161111
+us,fountainebleau,Fountainebleau,MS,,30.4019444,-88.7197222
+us,four forks,Four Forks,MS,,31.6280556,-91.1275000
+us,four mile,Four Mile,MS,,33.2872222,-90.4722222
+us,four points,Four Points,MS,,31.2511111,-89.1861111
+us,fox,Fox,MS,,33.5169444,-89.6650000
+us,fox island,Fox Island,MS,,34.6750000,-90.4458333
+us,foxworth,Foxworth,MS,,31.2380556,-89.8686111
+us,francis,Francis,MS,,34.0816667,-90.8547222
+us,franklin,Franklin,MS,,31.4213889,-91.0980556
+us,frankstown,Frankstown,MS,,34.5763889,-88.6297222
+us,frazier,Frazier,MS,,33.5669444,-90.7319444
+us,free run,Free Run,MS,,32.9519444,-90.2741667
+us,free springs,Free Springs,MS,,34.5255556,-89.6500000
+us,free trade,Free Trade,MS,,32.6961111,-89.4150000
+us,freeny,Freeny,MS,,32.7008333,-89.4813889
+us,freewoods,Freewoods,MS,,31.3455556,-91.0747222
+us,french camp,French Camp,MS,,33.2930556,-89.3994444
+us,friars point,Friars Point,MS,,34.3666667,-90.6375000
+us,friendship,Friendship,MS,,31.6386111,-89.6888889
+us,frog island,Frog Island,MS,,34.3652778,-88.7563889
+us,frogtown,Frogtown,MS,,32.3041667,-89.5755556
+us,fruitland park,Fruitland Park,MS,,30.9158333,-89.1711111
+us,fugate,Fugate,MS,,32.7488889,-90.2019444
+us,fulcher,Fulcher,MS,,33.3380556,-89.1230556
+us,fulton,Fulton,MS,,34.2738889,-88.4091667
+us,furrs,Furrs,MS,,34.2350000,-88.8600000
+us,furry,Furry,MS,,33.5202778,-90.5297222
+us,futheyville,Futheyville,MS,,33.7811111,-89.7761111
+us,gainesville,Gainesville,MS,,30.3508333,-89.6397222
+us,galena,Galena,MS,,34.6569444,-89.5522222
+us,galilee,Galilee,MS,,32.0500000,-89.7341667
+us,gallatin,Gallatin,MS,,31.8505556,-90.4536111
+us,gallman,Gallman,MS,,31.9319444,-90.3891667
+us,galloway,Galloway,MS,,32.0663889,-90.9666667
+us,gallway,Gallway,MS,,34.4888889,-89.1922222
+us,gama,Gama,MS,,32.0222222,-90.0916667
+us,gambrell,Gambrell,MS,,31.8083333,-89.3916667
+us,gandsi,Gandsi,MS,,31.5705556,-89.4988889
+us,garden city,Garden City,MS,,31.3669444,-91.1277778
+us,garlandville,Garlandville,MS,,32.2194444,-89.1225000
+us,gaston,Gaston,MS,,34.7041667,-88.5980556
+us,gatesville,Gatesville,MS,,31.9977778,-90.2433333
+us,gatewood,Gatewood,MS,,33.9747222,-89.7644444
+us,gattman,Gattman,MS,,33.8852778,-88.2352778
+us,gautier,Gautier,MS,24891,30.3855556,-88.6116667
+us,geeslin corner,Geeslin Corner,MS,,33.8238889,-89.8388889
+us,geeville,Geeville,MS,,34.5761111,-88.6908333
+us,geneill,Geneill,MS,,33.3888889,-90.7994444
+us,george,George,MS,,32.8500000,-90.7016667
+us,georgetown,Georgetown,MS,,31.8713889,-90.1644444
+us,gerlach mill,Gerlach Mill,MS,,34.5027778,-90.3327778
+us,germania,Germania,MS,,32.6061111,-90.5922222
+us,gershorm,Gershorm,MS,,34.0886111,-89.0266667
+us,gholson,Gholson,MS,,32.9363889,-88.7338889
+us,gibson,Gibson,MS,,33.8400000,-88.6844444
+us,gibson landing,Gibson Landing,MS,,30.7672222,-88.6702778
+us,gift,Gift,MS,,34.9455556,-88.6411111
+us,giles,Giles,MS,,32.8308333,-88.3800000
+us,gill,Gill,MS,,33.8055556,-90.9763889
+us,gillsburg,Gillsburg,MS,,31.0250000,-90.6558333
+us,gilmore,Gilmore,MS,,31.7797222,-89.4916667
+us,gilton,Gilton,MS,,34.7194444,-89.4480556
+us,gitano,Gitano,MS,,31.7780556,-89.3244444
+us,glade,Glade,MS,,31.6550000,-89.1072222
+us,gladhurst,Gladhurst,MS,,31.0294444,-90.3741667
+us,glading,Glading,MS,,31.1425000,-90.6402778
+us,glancy,Glancy,MS,,31.8183333,-90.4963889
+us,glaston,Glaston,MS,,31.6588889,-89.0783333
+us,glen allan,Glen Allan,MS,,33.0238889,-91.0300000
+us,glen aubin,Glen Aubin,MS,,34.3411111,-90.6105556
+us,glendale,Glendale,MS,,31.3644444,-89.3061111
+us,glendora,Glendora,MS,,33.8291667,-90.2930556
+us,glenfield,Glenfield,MS,,34.5111111,-89.0336111
+us,glens,Glens,MS,,34.8661111,-88.4138889
+us,glenville,Glenville,MS,,34.5283333,-89.7400000
+us,glenwild,Glenwild,MS,,33.7208333,-89.7819444
+us,gloster,Gloster,MS,,31.1972222,-91.0216667
+us,glover,Glover,MS,,34.9325000,-90.1800000
+us,gluckstadt,Gluckstadt,MS,,32.5163889,-90.1008333
+us,golden,Golden,MS,,34.4883333,-88.1886111
+us,golden grove,Golden Grove,MS,,32.6308333,-89.0897222
+us,good hope,Good Hope,MS,,31.4041667,-88.9488889
+us,goode,Goode,MS,,34.5761111,-90.1708333
+us,gooden lake,Gooden Lake,MS,,33.1380556,-90.6069444
+us,goodford,Goodford,MS,,34.1086111,-88.9425000
+us,goodhope,Goodhope,MS,,32.4572222,-89.0166667
+us,goodluck,Goodluck,MS,,31.3266667,-89.1563889
+us,goodman,Goodman,MS,,32.9700000,-89.9122222
+us,goodwater,Goodwater,MS,,31.9161111,-88.8600000
+us,gordon,Gordon,MS,,31.8966667,-90.9722222
+us,gore springs,Gore Springs,MS,,33.7541667,-89.6163889
+us,goshen,Goshen,MS,,32.7619444,-89.4958333
+us,goshen springs,Goshen Springs,MS,,32.4705556,-89.9158333
+us,goss,Goss,MS,,31.3552778,-89.8886111
+us,grace,Grace,MS,,32.9994444,-90.9563889
+us,grady,Grady,MS,,33.5127778,-89.3086111
+us,graham,Graham,MS,,34.5494444,-88.7933333
+us,grand gulf,Grand Gulf,MS,,32.0330556,-91.0525000
+us,grapeland,Grapeland,MS,,33.6169444,-90.9875000
+us,grass lake,Grass Lake,MS,,33.1705556,-90.3833333
+us,gravel hill,Gravel Hill,MS,,33.4013889,-90.0461111
+us,graves,Graves,MS,,34.4513889,-88.7769444
+us,gravestown,Gravestown,MS,,34.7486111,-89.0833333
+us,gray,Gray,MS,,32.9111111,-89.4469444
+us,graysport crossing,Graysport Crossing,MS,,33.8163889,-89.6136111
+us,green crossing,Green Crossing,MS,,32.4375000,-90.2652778
+us,green grove,Green Grove,MS,,34.1627778,-90.7608333
+us,green river,Green River,MS,,34.7722222,-90.2430556
+us,greenfield,Greenfield,MS,,32.2491667,-90.0527778
+us,greenland,Greenland,MS,,32.5511111,-89.0527778
+us,greenville,Greenville,MS,38107,33.4100000,-91.0616667
+us,greenwood,Greenwood,MS,17162,33.5161111,-90.1794444
+us,greenwood springs,Greenwood Springs,MS,,33.8869444,-88.3088889
+us,grenada,Grenada,MS,14558,33.7688889,-89.8083333
+us,grenada junction,Grenada Junction,MS,,33.5391667,-90.1647222
+us,grenada landing,Grenada Landing,MS,,33.8038889,-89.7672222
+us,gretna,Gretna,MS,,31.7594444,-88.5019444
+us,gridley,Gridley,MS,,32.0597222,-89.1125000
+us,griffith,Griffith,MS,,33.6350000,-88.8280556
+us,gulde,Gulde,MS,,32.2986111,-89.8633333
+us,gulf hills,Gulf Hills,MS,,30.4302778,-88.8422222
+us,gulf park estates,Gulf Park Estates,MS,,30.3916667,-88.7611111
+us,gulfport,Gulfport,MS,71329,30.3672222,-89.0927778
+us,gulfside,Gulfside,MS,,30.2666667,-89.3925000
+us,gum grove,Gum Grove,MS,,33.0775000,-90.4269444
+us,gum spring,Gum Spring,MS,,32.4594444,-89.4508333
+us,gum springs,Gum Springs,MS,,32.0036111,-89.9500000
+us,gums,Gums,MS,,33.9275000,-89.6288889
+us,gums crossing,Gums Crossing,MS,,33.9105556,-89.6291667
+us,gunn,Gunn,MS,,32.0833333,-89.7000000
+us,gunnison,Gunnison,MS,,33.9441667,-90.9450000
+us,guntown,Guntown,MS,,34.4430556,-88.6597222
+us,gwin,Gwin,MS,,33.1736111,-90.2233333
+us,gwinville,Gwinville,MS,,31.7513889,-89.8991667
+us,hale,Hale,MS,,31.9636111,-88.7755556
+us,hall,Hall,MS,,33.8886111,-89.0683333
+us,halltown,Halltown,MS,,34.5241667,-88.8125000
+us,hally,Hally,MS,,34.5088889,-90.3619444
+us,halstead,Halstead,MS,,33.7038889,-90.6413889
+us,hamage,Hamage,MS,,31.2255556,-89.9441667
+us,hamburg,Hamburg,MS,,31.5786111,-91.0666667
+us,hamilton,Hamilton,MS,,33.7402778,-88.4111111
+us,hamlin,Hamlin,MS,,34.5030556,-90.4572222
+us,hampton,Hampton,MS,,33.0308333,-91.0019444
+us,handle,Handle,MS,,32.9608333,-88.8744444
+us,handsboro,Handsboro,MS,,30.3983333,-89.0269444
+us,handy corner,Handy Corner,MS,,34.9622222,-89.7419444
+us,haney,Haney,MS,,31.8158333,-89.0094444
+us,hanford,Hanford,MS,,31.1125000,-89.4277778
+us,hankinson,Hankinson,MS,,32.1063889,-90.8794444
+us,hannah,Hannah,MS,,33.6369444,-91.0255556
+us,harbert landing,Harbert Landing,MS,,34.6536111,-90.5572222
+us,hardee,Hardee,MS,,32.5930556,-90.8550000
+us,hardy,Hardy,MS,,33.8819444,-89.8294444
+us,harleston,Harleston,MS,,30.7225000,-88.5088889
+us,harmon,Harmon,MS,,31.0930556,-89.4147222
+us,harmontown,Harmontown,MS,,34.5402778,-89.6483333
+us,harmony,Harmony,MS,,31.9852778,-88.8161111
+us,harperville,Harperville,MS,,32.4941667,-89.4894444
+us,harriston,Harriston,MS,,31.7250000,-91.0322222
+us,harrisville,Harrisville,MS,,31.9722222,-90.0777778
+us,hartman,Hartman,MS,,31.5136111,-90.4366667
+us,harvey,Harvey,MS,,31.3311111,-89.2622222
+us,harworth,Harworth,MS,,32.6716667,-90.6705556
+us,hathorn,Hathorn,MS,,31.3930556,-89.9191667
+us,hatley,Hatley,MS,,33.9766667,-88.4205556
+us,hatten,Hatten,MS,,33.7769444,-90.1791667
+us,hattiesburg,Hattiesburg,MS,48123,31.3269444,-89.2902778
+us,havendale,Havendale,MS,,32.6963889,-89.8708333
+us,hawkes,Hawkes,MS,,31.7547222,-89.0761111
+us,hawthorne,Hawthorne,MS,,31.5388889,-91.4013889
+us,hayes crossing,Hayes Crossing,MS,,34.4494444,-89.7613889
+us,haynes bluff,Haynes Bluff,MS,,32.5161111,-90.7852778
+us,hays,Hays,MS,,32.5372222,-89.3611111
+us,hazel,Hazel,MS,,32.3811111,-89.3013889
+us,hazeldell,Hazeldell,MS,,34.4805556,-88.3930556
+us,hazlehurst,Hazlehurst,MS,,31.8602778,-90.3958333
+us,heads,Heads,MS,,33.4705556,-90.8463889
+us,heater,Heater,MS,,32.0586111,-89.6394444
+us,heathman,Heathman,MS,,33.4400000,-90.7202778
+us,hebron,Hebron,MS,,31.2333333,-90.6777778
+us,heidelberg,Heidelberg,MS,,31.8866667,-88.9838889
+us,helena,Helena,MS,,30.4944444,-88.4958333
+us,helm,Helm,MS,,33.5008333,-90.8344444
+us,henderson,Henderson,MS,,31.4486111,-88.7736111
+us,henderson point,Henderson Point,MS,,30.3086111,-89.2869444
+us,hendrix,Hendrix,MS,,33.4663889,-89.6280556
+us,henleyfield,Henleyfield,MS,,30.6969444,-89.7638889
+us,herbert springs,Herbert Springs,MS,,32.6033333,-88.9286111
+us,hercules station,Hercules Station,MS,,31.1805556,-88.9388889
+us,hermanville,Hermanville,MS,,31.9591667,-90.8400000
+us,hernando,Hernando,MS,,34.8238889,-89.9936111
+us,hesterville,Hesterville,MS,,33.1605556,-89.6541667
+us,hickman landing,Hickman Landing,MS,,32.9350000,-90.7788889
+us,hickory,Hickory,MS,,32.3175000,-89.0255556
+us,hickory flat,Hickory Flat,MS,,34.6158333,-89.1883333
+us,hickory grove,Hickory Grove,MS,,31.3944444,-89.6461111
+us,hickory hills,Hickory Hills,MS,,30.4566667,-88.6391667
+us,hideaway hills,Hideaway Hills,MS,,34.4291667,-89.8491667
+us,hidi,Hidi,MS,,33.0244444,-90.3852778
+us,higdon,Higdon,MS,,34.7680556,-89.3869444
+us,higgins,Higgins,MS,,31.4230556,-89.5975000
+us,high hill,High Hill,MS,,32.6241667,-89.3177778
+us,high point,High Point,MS,,34.9613889,-88.2391667
+us,highlandale,Highlandale,MS,,33.6805556,-90.3438889
+us,highpoint,Highpoint,MS,,33.1880556,-89.1461111
+us,hight,Hight,MS,,32.9541667,-89.0652778
+us,hightown,Hightown,MS,,34.8216667,-88.6727778
+us,hilda,Hilda,MS,,30.3944444,-88.6680556
+us,hillhouse,Hillhouse,MS,,34.1255556,-90.8180556
+us,hillhouse landing,Hillhouse Landing,MS,,34.1336111,-90.8411111
+us,hillman,Hillman,MS,,31.1333333,-88.6327778
+us,hills chapel,Hills Chapel,MS,,34.6291667,-88.4536111
+us,hillsboro,Hillsboro,MS,,32.4591667,-89.5113889
+us,hillsdale,Hillsdale,MS,,30.9277778,-89.4972222
+us,hinchcliff,Hinchcliff,MS,,34.3097222,-90.2736111
+us,hintonville,Hintonville,MS,,31.2608333,-88.9219444
+us,hinze,Hinze,MS,,33.0327778,-89.2702778
+us,hiram,Hiram,MS,,34.0633333,-90.2811111
+us,hiwannee,Hiwannee,MS,,31.8100000,-88.6905556
+us,hobo station,Hobo Station,MS,,34.5608333,-88.4661111
+us,hoffman,Hoffman,MS,,33.1458333,-89.8088889
+us,hohenlinden,Hohenlinden,MS,,33.7288889,-89.1636111
+us,holcomb,Holcomb,MS,,33.7611111,-89.9758333
+us,holcut,Holcut,MS,,34.7297222,-88.3058333
+us,holladay,Holladay,MS,,33.9308333,-89.0063889
+us,holland landing,Holland Landing,MS,,32.9647222,-90.7805556
+us,hollandale,Hollandale,MS,,33.1688889,-90.8538889
+us,hollis,Hollis,MS,,33.8633333,-89.2416667
+us,hollis creek,Hollis Creek,MS,,31.5308333,-88.8336111
+us,holly bluff,Holly Bluff,MS,,32.8213889,-90.7088889
+us,holly grove,Holly Grove,MS,,33.4108333,-90.1700000
+us,holly hills,Holly Hills,MS,,34.9675000,-90.0916667
+us,holly landing,Holly Landing,MS,,30.7147222,-88.7111111
+us,holly ridge,Holly Ridge,MS,,33.4455556,-90.7533333
+us,holly springs,Holly Springs,MS,,34.7675000,-89.4486111
+us,hollyknowe,Hollyknowe,MS,,33.4013889,-90.8302778
+us,hollywood,Hollywood,MS,,34.7452778,-90.3580556
+us,holmesville,Holmesville,MS,,31.2033333,-90.3086111
+us,home landing,Home Landing,MS,,33.6641667,-91.1133333
+us,homewood,Homewood,MS,,32.2400000,-89.5061111
+us,homochitto,Homochitto,MS,,31.3197222,-90.9838889
+us,honey island,Honey Island,MS,,33.1263889,-90.3772222
+us,hoodtown,Hoodtown,MS,,31.9777778,-90.6047222
+us,hooker,Hooker,MS,,31.6341667,-90.0491667
+us,hookston,Hookston,MS,,32.4316667,-88.7905556
+us,hope,Hope,MS,,32.7472222,-89.2452778
+us,hopedale,Hopedale,MS,,32.9569444,-91.0125000
+us,hopewell,Hopewell,MS,,34.9680556,-89.0480556
+us,hopoca,Hopoca,MS,,32.8341667,-89.5063889
+us,hopson,Hopson,MS,,34.1586111,-90.5463889
+us,horatio,Horatio,MS,,34.4377778,-90.0555556
+us,horn,Horn,MS,,31.9316667,-88.5397222
+us,horn lake,Horn Lake,MS,16036,34.9552778,-90.0347222
+us,horn place landing,Horn Place Landing,MS,,32.7494444,-90.7002778
+us,horseshoe,Horseshoe,MS,,33.2508333,-90.2838889
+us,hortontown,Hortontown,MS,,34.3519444,-89.0788889
+us,houlka,Houlka,MS,,34.0380556,-89.0219444
+us,house,House,MS,,32.6286111,-88.9947222
+us,houston,Houston,MS,,33.8983333,-88.9991667
+us,hovey,Hovey,MS,,30.6144444,-89.1333333
+us,howard,Howard,MS,,33.1227778,-90.1908333
+us,howell,Howell,MS,,30.7936111,-88.4288889
+us,howison,Howison,MS,,30.6652778,-89.1383333
+us,hoy,Hoy,MS,,31.7647222,-89.1325000
+us,hub,Hub,MS,,31.1452778,-89.7500000
+us,hubbard,Hubbard,MS,,32.2125000,-90.6600000
+us,hubbard creek,Hubbard Creek,MS,,34.1619444,-89.8794444
+us,hudsonville,Hudsonville,MS,,34.8611111,-89.3750000
+us,hugo,Hugo,MS,,33.7869444,-90.1500000
+us,humber,Humber,MS,,34.2805556,-90.7033333
+us,humphreys,Humphreys,MS,,32.0802778,-90.8408333
+us,hunt,Hunt,MS,,33.4866667,-91.0413889
+us,hunter town,Hunter Town,MS,,32.2861111,-89.5911111
+us,huntsville,Huntsville,MS,,33.3480556,-89.4611111
+us,hurley,Hurley,MS,,30.6608333,-88.4941667
+us,huron,Huron,MS,,31.1000000,-90.6413889
+us,hurricane,Hurricane,MS,,34.3511111,-89.1477778
+us,hurricane branch,Hurricane Branch,MS,,33.8083333,-89.6944444
+us,hurricane creek,Hurricane Creek,MS,,32.2108333,-88.4544444
+us,hushpuckena,Hushpuckena,MS,,34.0047222,-90.7530556
+us,hustler,Hustler,MS,,31.2819444,-90.6975000
+us,hutchins landing,Hutchins Landing,MS,,31.3916667,-91.4580556
+us,hyde,Hyde,MS,,33.9291667,-89.5597222
+us,improve,Improve,MS,,31.3427778,-89.7002778
+us,increase,Increase,MS,,32.2569444,-88.5588889
+us,independence,Independence,MS,,34.7050000,-89.8088889
+us,india,India,MS,,30.8169444,-89.1111111
+us,indian hills,Indian Hills,MS,,34.3175000,-88.6844444
+us,indian springs,Indian Springs,MS,,34.8402778,-88.4147222
+us,indianola,Indianola,MS,11201,33.4508333,-90.6550000
+us,industrial,Industrial,MS,,30.5761111,-89.7633333
+us,ingleside,Ingleside,MS,,32.0355556,-90.9827778
+us,ingomar,Ingomar,MS,,34.4091667,-89.0366667
+us,ingrams,Ingrams,MS,,33.4336111,-90.8419444
+us,ingrams mill,Ingrams Mill,MS,,34.8241667,-89.7683333
+us,insmore,Insmore,MS,,32.0138889,-90.7319444
+us,institute,Institute,MS,,32.3355556,-90.6305556
+us,inverness,Inverness,MS,,33.3536111,-90.5925000
+us,inwood,Inwood,MS,,33.5058333,-90.5247222
+us,ireland,Ireland,MS,,31.3469444,-91.2225000
+us,irene,Irene,MS,,31.1700000,-90.5461111
+us,isenberg,Isenberg,MS,,33.3747222,-90.9094444
+us,isola,Isola,MS,,33.2619444,-90.5922222
+us,issaquena,Issaquena,MS,,32.7775000,-90.9338889
+us,itta bena,Itta Bena,MS,,33.4950000,-90.3197222
+us,ituma,Ituma,MS,,33.2305556,-90.1050000
+us,iuka,Iuka,MS,,34.8116667,-88.1900000
+us,jacinto,Jacinto,MS,,34.7597222,-88.4283333
+us,jack,Jack,MS,,32.0172222,-90.5700000
+us,jackson,Jackson,MS,176696,32.2986111,-90.1847222
+us,jackson landing,Jackson Landing,MS,,30.2061111,-89.5733333
+us,jago,Jago,MS,,34.9361111,-89.9766667
+us,jaketown,Jaketown,MS,,33.2502778,-90.4794444
+us,james,James,MS,,33.2036111,-91.0572222
+us,jamestown,Jamestown,MS,,31.1833333,-89.8552778
+us,janice,Janice,MS,,31.0252778,-89.0366667
+us,jaquith,Jaquith,MS,,33.7680556,-90.5358333
+us,jayess,Jayess,MS,,31.3647222,-90.2058333
+us,jaynesville,Jaynesville,MS,,31.7750000,-89.7666667
+us,jeannette,Jeannette,MS,,31.4863889,-91.2447222
+us,jeff,Jeff,MS,,32.4211111,-89.1277778
+us,jeff davis,Jeff Davis,MS,,32.1927778,-90.8791667
+us,jefferson,Jefferson,MS,,33.6325000,-89.8950000
+us,jeffries,Jeffries,MS,,34.5047222,-90.5386111
+us,jenkins,Jenkins,MS,,31.5938889,-89.1552778
+us,jennings,Jennings,MS,,31.1938889,-90.3777778
+us,jericho,Jericho,MS,,34.5111111,-88.7544444
+us,jetts,Jetts,MS,,32.3077778,-90.9013889
+us,jobes,Jobes,MS,,34.8613889,-88.4997222
+us,johns,Johns,MS,,32.1308333,-89.8380556
+us,johnson,Johnson,MS,,31.5388889,-89.1433333
+us,johnsonville,Johnsonville,MS,,33.4194444,-90.5952778
+us,johnston,Johnston,MS,,33.2819444,-90.8855556
+us,johnstons station,Johnstons Station,MS,,31.3483333,-90.4541667
+us,johnsville,Johnsville,MS,,31.5502778,-91.3491667
+us,jolly,Jolly,MS,,33.9430556,-88.7902778
+us,jonathan,Jonathan,MS,,31.2225000,-88.6375000
+us,jones chapel,Jones Chapel,MS,,33.3566667,-90.9111111
+us,jones crossing,Jones Crossing,MS,,33.1194444,-90.1361111
+us,jones mill,Jones Mill,MS,,30.3977778,-89.1844444
+us,jonestown,Jonestown,MS,,34.3194444,-90.4555556
+us,joseph,Joseph,MS,,32.9755556,-89.7277778
+us,jug fork,Jug Fork,MS,,34.4263889,-88.7891667
+us,jumpertown,Jumpertown,MS,,34.7108333,-88.6638889
+us,junction city,Junction City,MS,,31.9608333,-88.5730556
+us,juniper grove,Juniper Grove,MS,,30.7680556,-89.5013889
+us,kjirksey,KJirksey,MS,,34.5122222,-90.1752778
+us,kalem,Kalem,MS,,32.3550000,-89.5927778
+us,kansas landing,Kansas Landing,MS,,32.7472222,-90.7125000
+us,katzenmeyer,Katzenmeyer,MS,,32.5205556,-90.8255556
+us,kearney,Kearney,MS,,32.7530556,-90.7288889
+us,kearney park,Kearney Park,MS,,32.5888889,-90.3152778
+us,keel,Keel,MS,,34.4127778,-89.3677778
+us,keirn,Keirn,MS,,33.2744444,-90.2241667
+us,kelleys crossing,Kelleys Crossing,MS,,34.7277778,-90.1050000
+us,kelly,Kelly,MS,,31.5875000,-89.4444444
+us,kelona,Kelona,MS,,31.9619444,-89.0088889
+us,kelso,Kelso,MS,,32.6691667,-90.9036111
+us,kemper springs,Kemper Springs,MS,,32.5902778,-88.5800000
+us,kendrick,Kendrick,MS,,34.9702778,-88.3816667
+us,kennolia,Kennolia,MS,,31.5944444,-90.6750000
+us,keownville,Keownville,MS,,34.5413889,-88.9119444
+us,kerr,Kerr,MS,,33.1272222,-89.2697222
+us,kewanee,Kewanee,MS,,32.4238889,-88.4383333
+us,kienstra,Kienstra,MS,,31.2258333,-91.6058333
+us,kilmichael,Kilmichael,MS,,33.4433333,-89.5716667
+us,kiln,Kiln,MS,,30.4088889,-89.4350000
+us,kimball lake,Kimball Lake,MS,,33.7652778,-90.8000000
+us,kimberly,Kimberly,MS,,32.1580556,-90.9433333
+us,kincaid,Kincaid,MS,,33.7505556,-89.6552778
+us,king,King,MS,,32.0872222,-90.1302778
+us,king and anderson,King And Anderson,MS,,34.2950000,-90.6050000
+us,kings,Kings,MS,,32.3969444,-90.8563889
+us,kings corner,Kings Corner,MS,,34.4963889,-90.0572222
+us,kingston,Kingston,MS,,31.4052778,-91.2775000
+us,kinlock,Kinlock,MS,,33.3094444,-90.7075000
+us,kioto,Kioto,MS,,31.1638889,-90.2455556
+us,kipling,Kipling,MS,,32.6722222,-88.6483333
+us,kirby,Kirby,MS,,31.5113889,-90.9808333
+us,kirklin,Kirklin,MS,,31.0477778,-90.1158333
+us,kirkman landing,Kirkman Landing,MS,,33.8505556,-89.7613889
+us,kirkville,Kirkville,MS,,34.4513889,-88.4897222
+us,kitchener,Kitchener,MS,,32.5819444,-89.2850000
+us,kittrell,Kittrell,MS,,31.4302778,-88.5630556
+us,klein,Klein,MS,,32.1763889,-89.4611111
+us,klondike,Klondike,MS,,32.6222222,-88.7561111
+us,knobtown,Knobtown,MS,,31.3780556,-88.5233333
+us,knox,Knox,MS,,32.9597222,-89.5625000
+us,knoxo,Knoxo,MS,,31.1352778,-90.0461111
+us,knoxville,Knoxville,MS,,31.3786111,-91.1208333
+us,koch,Koch,MS,,32.4955556,-89.8863889
+us,kokomo,Kokomo,MS,,31.1972222,-90.0027778
+us,kola,Kola,MS,,31.6250000,-89.5272222
+us,kolola springs,Kolola Springs,MS,,33.6538889,-88.4088889
+us,kongo,Kongo,MS,,33.1177778,-90.7383333
+us,kosciusko,Kosciusko,MS,,33.0575000,-89.5875000
+us,kossuth,Kossuth,MS,,34.8719444,-88.6458333
+us,kracker station,Kracker Station,MS,,32.2772222,-89.6852778
+us,kreole,Kreole,MS,,30.4058333,-88.4947222
+us,lackey,Lackey,MS,,33.8030556,-88.4622222
+us,lafayette springs,Lafayette Springs,MS,,34.3172222,-89.2611111
+us,lake,Lake,MS,,32.3430556,-89.3286111
+us,lake appaloosa estates,Lake Appaloosa Estates,MS,,34.3125000,-88.5916667
+us,lake center,Lake Center,MS,,34.6888889,-89.3583333
+us,lake charles landing,Lake Charles Landing,MS,,34.1427778,-90.8725000
+us,lake city,Lake City,MS,,32.9230556,-90.4930556
+us,lake como,Lake Como,MS,,31.9622222,-89.2125000
+us,lake cormorant,Lake Cormorant,MS,,34.9041667,-90.2144444
+us,lake monroe east subdivision,Lake Monroe East Subdivision,MS,,33.9430556,-88.5638889
+us,lake monroe west subdivision,Lake Monroe West Subdivision,MS,,33.9458333,-88.5702778
+us,lake ridgelea subdivision,Lake Ridgelea Subdivision,MS,,32.1763889,-90.2972222
+us,lake view,Lake View,MS,,34.9888889,-90.1397222
+us,lake vista,Lake Vista,MS,,33.6088889,-91.0627778
+us,lakeland,Lakeland,MS,,32.2227778,-90.1566667
+us,lakeover,Lakeover,MS,,32.3958333,-90.2069444
+us,lakeshore,Lakeshore,MS,,30.2463889,-89.4358333
+us,lakeside,Lakeside,MS,,34.1611111,-89.8086111
+us,lamar,Lamar,MS,,34.9172222,-89.3177778
+us,lamar park,Lamar Park,MS,,31.3191667,-89.3602778
+us,lambert,Lambert,MS,,34.2016667,-90.2833333
+us,lamberts store,Lamberts Store,MS,,31.4894444,-90.2275000
+us,lamkin,Lamkin,MS,,33.0425000,-90.4655556
+us,lamont,Lamont,MS,,33.5352778,-91.0761111
+us,lampton,Lampton,MS,,31.1930556,-89.7980556
+us,landon,Landon,MS,,30.4377778,-89.1027778
+us,laneheart,Laneheart,MS,,31.1933333,-91.3683333
+us,langford,Langford,MS,,32.3463889,-89.9722222
+us,langsdale,Langsdale,MS,,31.8888889,-88.5844444
+us,lanham,Lanham,MS,,31.5830556,-89.0969444
+us,larue,Larue,MS,,30.6241667,-88.8483333
+us,latimer,Latimer,MS,,30.5344444,-88.8666667
+us,latonia,Latonia,MS,,30.8608333,-88.4277778
+us,lauderdale,Lauderdale,MS,,32.5205556,-88.5116667
+us,laughlin,Laughlin,MS,,33.7183333,-90.7977778
+us,laurel,Laurel,MS,17891,31.6938889,-89.1305556
+us,laurel hill,Laurel Hill,MS,,32.7311111,-89.3163889
+us,lawrence,Lawrence,MS,,32.3250000,-89.2327778
+us,laws hill,Laws Hill,MS,,34.5794444,-89.5738889
+us,le tourneau,Le Tourneau,MS,,32.2141667,-90.9383333
+us,leaf,Leaf,MS,,31.0255556,-88.7955556
+us,leaf river,Leaf River,MS,,31.6722222,-89.4347222
+us,leakesville,Leakesville,MS,,31.1555556,-88.5577778
+us,learned,Learned,MS,,32.1966667,-90.5472222
+us,lebanon,Lebanon,MS,,34.5563889,-88.7333333
+us,leedy,Leedy,MS,,34.7952778,-88.3611111
+us,leesburg,Leesburg,MS,,32.4402778,-89.7602778
+us,leesdale,Leesdale,MS,,31.5466667,-91.1577778
+us,leetown,Leetown,MS,,30.5583333,-89.5191667
+us,leeville,Leeville,MS,,31.3938889,-89.2563889
+us,leflore,Leflore,MS,,33.6936111,-90.0547222
+us,leggett,Leggett,MS,,31.1352778,-90.3038889
+us,lehr,Lehr,MS,,31.0338889,-90.1808333
+us,leland,Leland,MS,,33.4052778,-90.8975000
+us,lemon,Lemon,MS,,32.1358333,-89.5013889
+us,lena,Lena,MS,,32.5941667,-89.6119444
+us,leota,Leota,MS,,33.1044444,-91.0761111
+us,leotis,Leotis,MS,,34.0672222,-88.7433333
+us,lespedeza,Lespedeza,MS,,34.4516667,-89.7877778
+us,lessley,Lessley,MS,,31.1611111,-91.4294444
+us,leverett,Leverett,MS,,33.8827778,-90.0755556
+us,lewisburg,Lewisburg,MS,,34.8619444,-89.8333333
+us,lexie,Lexie,MS,,31.0786111,-90.1708333
+us,lexington,Lexington,MS,,33.1130556,-90.0530556
+us,liberty,Liberty,MS,,31.1580556,-90.8122222
+us,liberty chapel,Liberty Chapel,MS,,33.1936111,-89.4847222
+us,lightsey,Lightsey,MS,,31.7355556,-88.9358333
+us,lilac,Lilac,MS,,33.6694444,-89.5883333
+us,lillian,Lillian,MS,,32.5050000,-89.5452778
+us,limerick,Limerick,MS,,32.7550000,-90.5622222
+us,lingle,Lingle,MS,,32.1955556,-89.5772222
+us,linn,Linn,MS,,33.6597222,-90.6163889
+us,linton,Linton,MS,,32.0341667,-88.5875000
+us,linwood,Linwood,MS,,31.5108333,-91.4138889
+us,little creek,Little Creek,MS,,31.1272222,-88.8533333
+us,little italy,Little Italy,MS,,32.3530556,-89.3541667
+us,little rock,Little Rock,MS,,32.5258333,-89.0252778
+us,little springs,Little Springs,MS,,31.4022222,-90.7266667
+us,little sunflower,Little Sunflower,MS,,32.6941667,-90.8155556
+us,little texas,Little Texas,MS,,34.6272222,-90.2819444
+us,little yazoo,Little Yazoo,MS,,32.7077778,-90.3725000
+us,litton,Litton,MS,,33.6458333,-90.8372222
+us,livingston,Livingston,MS,,32.5527778,-90.2161111
+us,lizana,Lizana,MS,,30.5375000,-89.2522222
+us,lizelia,Lizelia,MS,,32.5355556,-88.6600000
+us,loakfoma,Loakfoma,MS,,33.2480556,-88.8872222
+us,lobdell,Lobdell,MS,,33.7183333,-90.9822222
+us,loch leven,Loch Leven,MS,,31.2086111,-91.5750000
+us,loch lomond,Loch Lomond,MS,,32.8691667,-90.6961111
+us,locke station,Locke Station,MS,,34.2786111,-90.1555556
+us,lockhart,Lockhart,MS,,32.4894444,-88.5858333
+us,locum,Locum,MS,,34.5930556,-88.8436111
+us,locust grove,Locust Grove,MS,,34.5030556,-88.9472222
+us,lodi,Lodi,MS,,33.5502778,-89.5208333
+us,logtown,Logtown,MS,,30.2827778,-89.6211111
+us,lombardy,Lombardy,MS,,33.9055556,-90.6069444
+us,lone pine,Lone Pine,MS,,34.9711111,-88.7425000
+us,lone star,Lone Star,MS,,31.6386111,-89.7377778
+us,long,Long,MS,,33.4430556,-90.7944444
+us,long beach,Long Beach,MS,16763,30.3502778,-89.1527778
+us,long branch,Long Branch,MS,,34.1347222,-89.8466667
+us,long lake,Long Lake,MS,,34.3680556,-90.5777778
+us,longino,Longino,MS,,32.8050000,-89.1038889
+us,longshot,Longshot,MS,,33.6452778,-90.9025000
+us,longstreet,Longstreet,MS,,34.1133333,-90.3297222
+us,longtown,Longtown,MS,,34.5108333,-90.1241667
+us,longview,Longview,MS,,33.4038889,-88.9211111
+us,longwood,Longwood,MS,,33.1469444,-91.0661111
+us,looxahoma,Looxahoma,MS,,34.5972222,-89.8369444
+us,loraine,Loraine,MS,,30.4552778,-89.0252778
+us,lorena,Lorena,MS,,32.1827778,-89.5094444
+us,lorenzen,Lorenzen,MS,,32.9486111,-90.9063889
+us,loring,Loring,MS,,32.7802778,-89.9377778
+us,lorman,Lorman,MS,,31.8202778,-91.0500000
+us,lost gap,Lost Gap,MS,,32.3416667,-88.8069444
+us,lost lake,Lost Lake,MS,,34.7836111,-90.2438889
+us,louin,Louin,MS,,32.0711111,-89.2608333
+us,louise,Louise,MS,,32.9822222,-90.5886111
+us,louisville,Louisville,MS,,33.1236111,-89.0550000
+us,love,Love,MS,,34.7533333,-89.9700000
+us,lovelace,Lovelace,MS,,31.2122222,-89.8591667
+us,lowrey,Lowrey,MS,,34.6791667,-89.0275000
+us,loyd,Loyd,MS,,33.9580556,-89.2219444
+us,loyd star,Loyd Star,MS,,31.6263889,-90.5500000
+us,lucas,Lucas,MS,,31.5877778,-89.9583333
+us,lucedale,Lucedale,MS,,30.9250000,-88.5900000
+us,lucern,Lucern,MS,,32.5166667,-89.2291667
+us,lucien,Lucien,MS,,31.5166667,-90.6638889
+us,luckney,Luckney,MS,,32.3413889,-90.0755556
+us,ludlow,Ludlow,MS,,32.5716667,-89.7127778
+us,lula,Lula,MS,,34.4530556,-90.4786111
+us,lumberton,Lumberton,MS,,31.0011111,-89.4522222
+us,lurand,Lurand,MS,,34.1358333,-90.5277778
+us,lurline,Lurline,MS,,34.7430556,-89.8458333
+us,luther,Luther,MS,,32.8166667,-89.4808333
+us,lux,Lux,MS,,31.4450000,-89.4008333
+us,lyman,Lyman,MS,,30.4972222,-89.1108333
+us,lynchburg,Lynchburg,MS,,34.9622222,-90.0958333
+us,lynn creek,Lynn Creek,MS,,33.2333333,-88.7305556
+us,lynville,Lynville,MS,,32.8550000,-88.8155556
+us,lyon,Lyon,MS,,34.2177778,-90.5419444
+us,maben,Maben,MS,,33.5552778,-89.0847222
+us,macedonia,Macedonia,MS,,31.3819444,-89.1686111
+us,macel,Macel,MS,,33.8222222,-90.1630556
+us,mack,Mack,MS,,34.8383333,-89.4800000
+us,macon,Macon,MS,,33.1052778,-88.5608333
+us,madden,Madden,MS,,32.6788889,-89.3480556
+us,maddox,Maddox,MS,,31.8886111,-89.6694444
+us,madison,Madison,MS,16786,32.4616667,-90.1152778
+us,madisonville,Madisonville,MS,,32.5266667,-89.9775000
+us,magee,Magee,MS,,31.8736111,-89.7336111
+us,magenta,Magenta,MS,,33.4311111,-90.9633333
+us,magna vista,Magna Vista,MS,,32.6580556,-91.0616667
+us,magnolia,Magnolia,MS,,31.1430556,-90.4586111
+us,mahned,Mahned,MS,,31.2088889,-89.0808333
+us,mahon,Mahon,MS,,34.8147222,-89.5152778
+us,malmaison,Malmaison,MS,,33.5222222,-90.0072222
+us,malone,Malone,MS,,34.5761111,-89.4777778
+us,malvina,Malvina,MS,,33.8494444,-90.9172222
+us,manhattan,Manhattan,MS,,33.2716667,-90.8572222
+us,mannassa,Mannassa,MS,,31.9972222,-88.5763889
+us,mannsdale,Mannsdale,MS,,32.5233333,-90.1916667
+us,mantachie,Mantachie,MS,,34.3241667,-88.4911111
+us,mantee,Mantee,MS,,33.7313889,-89.0552778
+us,marathon,Marathon,MS,,33.0652778,-91.0191667
+us,marcella,Marcella,MS,,33.1294444,-90.2975000
+us,marianna,Marianna,MS,,34.7175000,-89.5988889
+us,marienette,Marienette,MS,,34.8719444,-90.2180556
+us,marietta,Marietta,MS,,34.5019444,-88.4688889
+us,marion,Marion,MS,,32.4172222,-88.6477778
+us,maris town,Maris Town,MS,,32.6236111,-90.0188889
+us,markette,Markette,MS,,34.2777778,-89.5208333
+us,markham,Markham,MS,,33.4047222,-90.5611111
+us,marks,Marks,MS,,34.2563889,-90.2719444
+us,marksville,Marksville,MS,,33.3091667,-90.2802778
+us,markwald,Markwald,MS,,31.8261111,-89.0025000
+us,mars hill,Mars Hill,MS,,31.3030556,-90.6280556
+us,martin,Martin,MS,,32.5494444,-88.8450000
+us,martin bluff,Martin Bluff,MS,,30.4566667,-88.6394444
+us,martins pine hill estates,Martins Pine Hill Estates,MS,,30.4963889,-88.8569444
+us,martinsville,Martinsville,MS,,31.7908333,-90.4069444
+us,martintown,Martintown,MS,,34.4583333,-89.0544444
+us,martinville,Martinville,MS,,31.9733333,-89.7538889
+us,marvins chapel,Marvins Chapel,MS,,33.1083333,-89.5444444
+us,marydell,Marydell,MS,,32.8852778,-89.3836111
+us,mashulaville,Mashulaville,MS,,33.0866667,-88.7441667
+us,mason landing,Mason Landing,MS,,34.0219444,-90.8958333
+us,matagorda,Matagorda,MS,,34.3380556,-90.4569444
+us,mathena,Mathena,MS,,33.1908333,-90.3847222
+us,matherville,Matherville,MS,,31.8772222,-88.5688889
+us,mathews crossing,Mathews Crossing,MS,,33.3363889,-90.3944444
+us,mathiston,Mathiston,MS,,33.5400000,-89.1241667
+us,matthews,Matthews,MS,,31.7958333,-89.2180556
+us,mattoon,Mattoon,MS,,33.4511111,-90.4711111
+us,mattson,Mattson,MS,,34.0977778,-90.5100000
+us,maud,Maud,MS,,34.5619444,-90.4369444
+us,maxie,Maxie,MS,,30.9777778,-89.1958333
+us,may spring,May Spring,MS,,33.0930556,-88.7236111
+us,maybank,Maybank,MS,,31.4075000,-89.3697222
+us,mayday,Mayday,MS,,33.3608333,-90.3138889
+us,mayersville,Mayersville,MS,,32.9019444,-91.0511111
+us,mayfair,Mayfair,MS,,32.2188889,-90.2472222
+us,mayhew,Mayhew,MS,,33.4847222,-88.6344444
+us,mayton,Mayton,MS,,32.1066667,-89.7472222
+us,maywood,Maywood,MS,,34.9708333,-89.8472222
+us,mcadams,McAdams,MS,,33.0211111,-89.6883333
+us,mcafee,McAfee,MS,,32.7425000,-89.4961111
+us,mcbride,McBride,MS,,31.7655556,-90.7822222
+us,mccall creek,McCall Creek,MS,,31.5125000,-90.6986111
+us,mccall landing,McCall Landing,MS,,30.5244444,-88.6791667
+us,mccallum,McCallum,MS,,31.2375000,-89.2125000
+us,mccarley,McCarley,MS,,33.5230556,-89.8338889
+us,mccomb,McComb,MS,,31.2436111,-90.4530556
+us,mccondy,McCondy,MS,,33.8222222,-88.8425000
+us,mccool,McCool,MS,,33.2019444,-89.3450000
+us,mccrary,McCrary,MS,,33.4638889,-88.2836111
+us,mccutcheon,McCutcheon,MS,,33.2344444,-90.8797222
+us,mcdaniels,McDaniels,MS,,33.4861111,-90.5861111
+us,mcdonald,McDonald,MS,,31.6194444,-89.5736111
+us,mcelveen,McElveen,MS,,31.2008333,-90.5955556
+us,mcghee,McGhee,MS,,34.5391667,-89.9494444
+us,mcgrath,McGrath,MS,,33.2894444,-90.7980556
+us,mchenry,McHenry,MS,,30.7075000,-89.1383333
+us,mcivor,McIvor,MS,,34.4383333,-89.9747222
+us,mclain,McLain,MS,,31.1086111,-88.8272222
+us,mclaurin,McLaurin,MS,,31.1677778,-89.2172222
+us,mclaurin heights,McLaurin Heights,MS,,32.2830556,-90.1088889
+us,mcleod,McLeod,MS,,33.0922222,-88.4516667
+us,mcmillan,McMillan,MS,,33.1025000,-89.9425000
+us,mcnair,McNair,MS,,31.7658333,-89.6875000
+us,mcneal,McNeal,MS,,32.0413889,-89.1536111
+us,mcneill,McNeill,MS,,30.6686111,-89.6383333
+us,mcnutt,McNutt,MS,,33.6472222,-90.3722222
+us,mcraney,McRaney,MS,,31.6094444,-89.7172222
+us,mcraven,McRaven,MS,,32.3036111,-90.3269444
+us,mcswain,McSwain,MS,,31.3144444,-88.9769444
+us,mcville,McVille,MS,,32.9313889,-89.6219444
+us,meadville,Meadville,MS,,31.4722222,-90.8966667
+us,mechanicsburg,Mechanicsburg,MS,,32.6325000,-90.5027778
+us,meehan,Meehan,MS,,32.3280556,-88.8663889
+us,meeks,Meeks,MS,,33.2994444,-90.1891667
+us,mehr,Mehr,MS,,33.8036111,-90.1491667
+us,melba,Melba,MS,,31.4447222,-89.6455556
+us,melis,Melis,MS,,31.2297222,-90.1125000
+us,melton,Melton,MS,,31.7863889,-91.0569444
+us,meltonia,Meltonia,MS,,33.6025000,-90.8861111
+us,meltonville,Meltonville,MS,,32.5163889,-90.0377778
+us,memphis,Memphis,MS,,34.9180556,-90.1369444
+us,memphis junction,Memphis Junction,MS,,33.8005556,-89.7966667
+us,mendenhall,Mendenhall,MS,,31.9616667,-89.8700000
+us,meridian,Meridian,MS,39437,32.3641667,-88.7036111
+us,merigold,Merigold,MS,,33.8388889,-90.7261111
+us,merit,Merit,MS,,31.9277778,-89.9086111
+us,merrill,Merrill,MS,,30.9788889,-88.7205556
+us,merry hell,Merry Hell,MS,,31.8063889,-89.6625000
+us,mesa,Mesa,MS,,31.1472222,-90.2002778
+us,metcalfe,Metcalfe,MS,,33.4538889,-91.0072222
+us,mhoon landing,Mhoon Landing,MS,,34.7416667,-90.4419444
+us,mhoons valley,Mhoons Valley,MS,,33.5797222,-88.7541667
+us,michigan city,Michigan City,MS,,34.9808333,-89.2505556
+us,middleton,Middleton,MS,,32.1636111,-88.6122222
+us,midnight,Midnight,MS,,33.0494444,-90.5733333
+us,midway,Midway,MS,,34.7311111,-88.2247222
+us,mikoma,Mikoma,MS,,33.9502778,-90.2838889
+us,mildred,Mildred,MS,,31.1477778,-89.8419444
+us,mileston,Mileston,MS,,33.1102778,-90.2733333
+us,mill creek,Mill Creek,MS,,30.6705556,-89.7025000
+us,mill town,Mill Town,MS,,32.6355556,-90.0325000
+us,millard,Millard,MS,,30.7222222,-89.5983333
+us,millcreek,Millcreek,MS,,33.1566667,-88.9488889
+us,miller,Miller,MS,,34.9175000,-89.7686111
+us,millers landing,Millers Landing,MS,,32.9169444,-91.0608333
+us,millington,Millington,MS,,32.8811111,-88.4158333
+us,milltown,Milltown,MS,,32.6402778,-90.0250000
+us,millville,Millville,MS,,32.6708333,-89.7686111
+us,milroy,Milroy,MS,,33.3069444,-90.5902778
+us,milton,Milton,MS,,31.8527778,-89.6000000
+us,mims,Mims,MS,,34.2291667,-90.1288889
+us,mineral springs,Mineral Springs,MS,,31.9508333,-89.4283333
+us,mineral wells,Mineral Wells,MS,,34.9905556,-89.8655556
+us,minerva,Minerva,MS,,33.5283333,-89.5791667
+us,mingo,Mingo,MS,,34.6319444,-88.1502778
+us,minot,Minot,MS,,33.9419444,-90.4897222
+us,minter city,Minter City,MS,,33.7533333,-90.2944444
+us,mish,Mish,MS,,31.6838889,-89.5972222
+us,missala,Missala,MS,,30.4577778,-88.4000000
+us,mississippi city,Mississippi City,MS,,30.3816667,-89.0438889
+us,misterton,Misterton,MS,,33.7077778,-89.5822222
+us,mitchell,Mitchell,MS,,34.7094444,-88.8430556
+us,mixon,Mixon,MS,,31.1272222,-90.5750000
+us,mize,Mize,MS,,31.8683333,-89.5558333
+us,molino,Molino,MS,,34.5752778,-88.8925000
+us,monarch,Monarch,MS,,31.5125000,-89.0727778
+us,moncure,Moncure,MS,,32.0552778,-90.2594444
+us,money,Money,MS,,33.6511111,-90.2091667
+us,monroe,Monroe,MS,,31.4713889,-90.8266667
+us,mont helena,Mont Helena,MS,,32.9455556,-90.8638889
+us,monterey,Monterey,MS,,32.1847222,-90.0808333
+us,montevista,Montevista,MS,,33.7050000,-89.2355556
+us,montgomery,Montgomery,MS,,33.2972222,-90.3266667
+us,monticello,Monticello,MS,,31.5536111,-90.1072222
+us,montpelier,Montpelier,MS,,33.7177778,-88.9477778
+us,montrose,Montrose,MS,,32.1241667,-89.2355556
+us,moon,Moon,MS,,34.4219444,-90.4883333
+us,moores mill,Moores Mill,MS,,34.4819444,-88.3263889
+us,mooreville,Mooreville,MS,,34.2675000,-88.5766667
+us,moorhead,Moorhead,MS,,33.4500000,-90.5055556
+us,morgan city,Morgan City,MS,,33.3805556,-90.3502778
+us,morgans store,Morgans Store,MS,,32.0933333,-90.3722222
+us,morgantown,Morgantown,MS,,31.3122222,-89.9158333
+us,mormon springs,Mormon Springs,MS,,33.8263889,-88.2955556
+us,morning star,Morning Star,MS,,32.2197222,-90.5736111
+us,morris,Morris,MS,,31.4622222,-89.6613889
+us,morriston,Morriston,MS,,31.4155556,-89.1961111
+us,morton,Morton,MS,,32.3536111,-89.6544444
+us,moscos,Moscos,MS,,31.6050000,-89.4875000
+us,moscow,Moscow,MS,,32.7100000,-88.8000000
+us,moseley,Moseley,MS,,32.4513889,-88.8291667
+us,moselle,Moselle,MS,,31.5022222,-89.2788889
+us,moss,Moss,MS,,31.8150000,-89.1777778
+us,moss point,Moss Point,MS,14998,30.4113889,-88.5344444
+us,mound bayou,Mound Bayou,MS,,33.8780556,-90.7272222
+us,mound city,Mound City,MS,,33.7791667,-90.9152778
+us,mound landing,Mound Landing,MS,,33.6072222,-91.1269444
+us,mount carmel,Mount Carmel,MS,,31.6450000,-89.7897222
+us,mount herman,Mount Herman,MS,,33.2252778,-89.7027778
+us,mount horeb,Mount Horeb,MS,,31.5833333,-89.5702778
+us,mount moriah,Mount Moriah,MS,,34.9713889,-88.9402778
+us,mount nebo,Mount Nebo,MS,,32.7027778,-88.7069444
+us,mount olive,Mount Olive,MS,,31.7611111,-89.6550000
+us,mount olivet,Mount Olivet,MS,,34.2936111,-89.7880556
+us,mount pleasant,Mount Pleasant,MS,,34.9558333,-89.5158333
+us,mount vernon,Mount Vernon,MS,,34.3300000,-88.7536111
+us,mount zion,Mount Zion,MS,,31.6452778,-89.2477778
+us,movella,Movella,MS,,30.7638889,-88.5063889
+us,mulberry,Mulberry,MS,,32.0522222,-89.1375000
+us,muldon,Muldon,MS,,33.7322222,-88.6538889
+us,muldrow,Muldrow,MS,,33.5466667,-88.7044444
+us,multona springs,Multona Springs,MS,,33.1986111,-89.4444444
+us,murdock crossing,Murdock Crossing,MS,,33.4169444,-90.3063889
+us,murphy,Murphy,MS,,33.1208333,-90.7013889
+us,muskedine,Muskedine,MS,,33.2244444,-90.9836111
+us,muskegon,Muskegon,MS,,32.3480556,-89.3522222
+us,myles,Myles,MS,,32.0197222,-90.7063889
+us,myrick,Myrick,MS,,31.6608333,-88.9941667
+us,myrleville,Myrleville,MS,,32.7130556,-90.2775000
+us,myrtle,Myrtle,MS,,34.5583333,-89.1191667
+us,nancy,Nancy,MS,,31.9433333,-88.8425000
+us,nanih waiya,Nanih Waiya,MS,,32.9213889,-88.9486111
+us,napanee,Napanee,MS,,33.5061111,-90.8708333
+us,napoleon,Napoleon,MS,,30.3261111,-89.6275000
+us,nason,Nason,MS,,33.7230556,-89.8986111
+us,natchez,Natchez,MS,17118,31.5602778,-91.4030556
+us,natcole,Natcole,MS,,31.1738889,-89.8497222
+us,necaise,Necaise,MS,,30.6016667,-89.4141667
+us,neely,Neely,MS,,31.1647222,-88.7547222
+us,neil,Neil,MS,,34.5961111,-88.2302778
+us,nellieburg,Nellieburg,MS,,32.4066667,-88.7772222
+us,nesbit,Nesbit,MS,,34.8816667,-90.0086111
+us,neshoba,Neshoba,MS,,32.6233333,-89.1380556
+us,nettleton,Nettleton,MS,,34.0888889,-88.6222222
+us,nevada,Nevada,MS,,32.5238889,-90.4680556
+us,neville,Neville,MS,,32.5836111,-89.2477778
+us,new albany,New Albany,MS,,34.4941667,-89.0077778
+us,new augusta,New Augusta,MS,,31.2022222,-89.0347222
+us,new bethel,New Bethel,MS,,34.4927778,-88.2486111
+us,new byram,New Byram,MS,,32.1852778,-90.2594444
+us,new canaan,New Canaan,MS,,34.9475000,-89.1177778
+us,new fannin,New Fannin,MS,,32.4216667,-89.9741667
+us,new fellowship,New Fellowship,MS,,32.2125000,-88.9702778
+us,new fitler,New Fitler,MS,,32.7008333,-91.0202778
+us,new hamilton,New Hamilton,MS,,33.7377778,-88.4447222
+us,new harmony,New Harmony,MS,,34.3938889,-88.9197222
+us,new haven,New Haven,MS,,31.8158333,-89.5847222
+us,new hebron,New Hebron,MS,,31.7308333,-89.9786111
+us,new hope,New Hope,MS,,33.4680556,-88.3266667
+us,new hope grove,New Hope Grove,MS,,32.4236111,-90.1861111
+us,new ireland,New Ireland,MS,,32.5638889,-89.1769444
+us,new liberty,New Liberty,MS,,33.8913889,-89.2361111
+us,new providence,New Providence,MS,,32.3575000,-88.9205556
+us,new salem,New Salem,MS,,34.1394444,-88.3586111
+us,new sight,New Sight,MS,,31.6541667,-90.4483333
+us,new site,New Site,MS,,34.5591667,-88.4094444
+us,new town,New Town,MS,,34.6119444,-89.9150000
+us,new union,New Union,MS,,31.3933333,-89.7430556
+us,new wren,New Wren,MS,,33.9716667,-88.6133333
+us,newman,Newman,MS,,32.2355556,-90.6972222
+us,newmans,Newmans,MS,,32.3508333,-90.7527778
+us,newmans grove,Newmans Grove,MS,,32.3458333,-90.7708333
+us,newport,Newport,MS,,32.9369444,-89.7644444
+us,newsom,Newsom,MS,,31.3261111,-89.9341667
+us,newton,Newton,MS,,32.3211111,-89.1633333
+us,newtonia,Newtonia,MS,,31.0402778,-91.2058333
+us,niblett landing,Niblett Landing,MS,,33.7030556,-91.0377778
+us,nichols,Nichols,MS,,33.3177778,-90.4127778
+us,nicholson,Nicholson,MS,,30.4769444,-89.6936111
+us,nile,Nile,MS,,32.9458333,-89.5166667
+us,niles,Niles,MS,,33.8552778,-90.9572222
+us,nitta yuma,Nitta Yuma,MS,,33.0241667,-90.8491667
+us,nixon,Nixon,MS,,34.2866667,-88.9722222
+us,nod,Nod,MS,,32.7563889,-90.2305556
+us,nogan,Nogan,MS,,32.2477778,-90.2127778
+us,nola,Nola,MS,,31.6141667,-90.2380556
+us,norfield,Norfield,MS,,31.4075000,-90.4672222
+us,norfolk,Norfolk,MS,,34.9513889,-90.2305556
+us,norris,Norris,MS,,32.2938889,-89.4358333
+us,nortac,Nortac,MS,,30.7850000,-89.5666667
+us,north bend,North Bend,MS,,32.8680556,-88.9930556
+us,north biloxi,North Biloxi,MS,,30.4361111,-88.9500000
+us,north carrollton,North Carrollton,MS,,33.5180556,-89.9205556
+us,north colony,North Colony,MS,,32.3972222,-90.1722222
+us,north gulfport,North Gulfport,MS,,30.4141667,-89.0941667
+us,north haven,North Haven,MS,,34.5208333,-88.9888889
+us,north junction,North Junction,MS,,34.2569444,-89.0152778
+us,north tunica,North Tunica,MS,,34.7008333,-90.3780556
+us,norway,Norway,MS,,32.9038889,-90.3980556
+us,norwood,Norwood,MS,,32.3752778,-90.1855556
+us,noxapater,Noxapater,MS,,32.9922222,-89.0661111
+us,nugent,Nugent,MS,,30.4702778,-89.1036111
+us,o'neil,O'Neil,MS,,31.3036111,-90.8844444
+us,o'reilly,O'Reilly,MS,,33.6672222,-90.7291667
+us,oak bowery,Oak Bowery,MS,,31.6191667,-89.3891667
+us,oak grove,Oak Grove,MS,,31.2858333,-89.4144444
+us,oak hill,Oak Hill,MS,,34.3227778,-88.9472222
+us,oak ridge,Oak Ridge,MS,,32.4811111,-90.7063889
+us,oak vale,Oak Vale,MS,,31.4383333,-89.9644444
+us,oakland,Oakland,MS,,34.0555556,-89.9163889
+us,oaklawn,Oaklawn,MS,,32.0050000,-90.9977778
+us,oakley,Oakley,MS,,32.2175000,-90.5030556
+us,oaks,Oaks,MS,,32.7997222,-89.9769444
+us,obadiah,Obadiah,MS,,32.5122222,-88.7266667
+us,ocean springs,Ocean Springs,MS,17659,30.4111111,-88.8277778
+us,ocobla,Ocobla,MS,,32.7547222,-89.0252778
+us,ofahoma,Ofahoma,MS,,32.7072222,-89.7005556
+us,oil city,Oil City,MS,,32.6911111,-90.4338889
+us,okahola,Okahola,MS,,31.2069444,-89.3863889
+us,oklahoma,Oklahoma,MS,,33.3336111,-90.1683333
+us,okolona,Okolona,MS,,34.0016667,-88.7552778
+us,oktoc,Oktoc,MS,,33.3322222,-88.7577778
+us,old americus,Old Americus,MS,,30.7091667,-88.5958333
+us,old avera,Old Avera,MS,,31.3608333,-88.5669444
+us,old dominion,Old Dominion,MS,,33.3944444,-90.3863889
+us,old houlka,Old Houlka,MS,,34.0380556,-88.9941667
+us,old myrtle,Old Myrtle,MS,,34.5275000,-89.1225000
+us,old union,Old Union,MS,,34.1475000,-88.7366667
+us,oldenburg,Oldenburg,MS,,31.5738889,-90.9744444
+us,oldham,Oldham,MS,,34.7730556,-88.1283333
+us,olio,Olio,MS,,31.0544444,-90.9211111
+us,olive branch,Olive Branch,MS,27748,34.9616667,-89.8294444
+us,oliverfried,Oliverfried,MS,,34.1736111,-90.2977778
+us,oloh,Oloh,MS,,31.2966667,-89.5900000
+us,oma,Oma,MS,,31.7266667,-90.1447222
+us,omega,Omega,MS,,33.1233333,-90.3130556
+us,onward,Onward,MS,,32.7252778,-90.9419444
+us,ora,Ora,MS,,31.6575000,-89.5744444
+us,orange,Orange,MS,,31.5275000,-91.0725000
+us,orange grove,Orange Grove,MS,,30.4544444,-89.0883333
+us,orangeville,Orangeville,MS,,32.4716667,-90.4794444
+us,oregon,Oregon,MS,,33.1438889,-90.1133333
+us,orion,Orion,MS,,34.7152778,-89.6519444
+us,orvisburg,Orvisburg,MS,,30.9127778,-89.5252778
+us,osborn,Osborn,MS,,33.5213889,-88.7222222
+us,osborne creek,Osborne Creek,MS,,34.6258333,-88.6222222
+us,osseola,Osseola,MS,,33.3058333,-90.8725000
+us,oswego,Oswego,MS,,33.2169444,-90.2244444
+us,osyka,Osyka,MS,,31.0066667,-90.4722222
+us,otho,Otho,MS,,32.2352778,-89.4083333
+us,overby,Overby,MS,,33.1436111,-90.8533333
+us,ovett,Ovett,MS,,31.4852778,-89.0327778
+us,owens wells,Owens Wells,MS,,33.0950000,-89.9677778
+us,oxberry,Oxberry,MS,,33.7850000,-90.0355556
+us,oxford,Oxford,MS,13348,34.3663889,-89.5191667
+us,ozark,Ozark,MS,,34.4138889,-88.4694444
+us,ozona,Ozona,MS,,30.5844444,-89.6636111
+us,pace,Pace,MS,,33.7913889,-90.8569444
+us,pachuta,Pachuta,MS,,32.0402778,-88.8847222
+us,paden,Paden,MS,,34.6597222,-88.2658333
+us,palestine,Palestine,MS,,33.7100000,-88.9216667
+us,palmers crossing,Palmers Crossing,MS,,31.2822222,-89.2755556
+us,palmetto,Palmetto,MS,,34.1916667,-88.7808333
+us,palo alto,Palo Alto,MS,,33.6805556,-88.8000000
+us,pannell,Pannell,MS,,34.1550000,-89.1127778
+us,panther burn,Panther Burn,MS,,33.0661111,-90.8683333
+us,parchman,Parchman,MS,,33.9177778,-90.4963889
+us,parham,Parham,MS,,34.0097222,-88.3405556
+us,paris,Paris,MS,,34.1786111,-89.4597222
+us,parkersburg,Parkersburg,MS,,33.9655556,-88.9527778
+us,parks,Parks,MS,,34.4905556,-88.8758333
+us,parksplace,Parksplace,MS,,34.5102778,-90.0569444
+us,parsons,Parsons,MS,,33.7333333,-90.0316667
+us,partee,Partee,MS,,33.9525000,-89.4819444
+us,pascagoula,Pascagoula,MS,25621,30.3655556,-88.5561111
+us,pascagoula river estates,Pascagoula River Estates,MS,,30.8425000,-88.7561111
+us,pass christian,Pass Christian,MS,,30.3155556,-89.2475000
+us,pat,Pat,MS,,32.1783333,-90.0100000
+us,patmos,Patmos,MS,,32.8130556,-90.7283333
+us,patosi,Patosi,MS,,32.9163889,-90.6194444
+us,patrick,Patrick,MS,,33.4877778,-88.7716667
+us,patterson,Patterson,MS,,32.9775000,-89.4319444
+us,pattison,Pattison,MS,,31.8883333,-90.8872222
+us,paul,Paul,MS,,33.9116667,-89.9527778
+us,paulding,Paulding,MS,,32.0305556,-89.0375000
+us,paulette,Paulette,MS,,32.9963889,-88.4297222
+us,paynes,Paynes,MS,,33.9208333,-90.0694444
+us,pearl,Pearl,MS,23272,32.2744444,-90.1319444
+us,pearl hill,Pearl Hill,MS,,32.7888889,-89.4041667
+us,pearl river,Pearl River,MS,,32.7833333,-89.2277778
+us,pearlington,Pearlington,MS,,30.2463889,-89.6111111
+us,pearson,Pearson,MS,,32.2466667,-90.1230556
+us,pecan,Pecan,MS,,30.4433333,-88.4291667
+us,pecan grove,Pecan Grove,MS,,31.5977778,-89.1372222
+us,peelers,Peelers,MS,,32.4913889,-91.0466667
+us,pelahatchie,Pelahatchie,MS,,32.3127778,-89.7983333
+us,pellez,Pellez,MS,,33.4769444,-89.3816667
+us,penantly,Penantly,MS,,32.1555556,-89.0527778
+us,pendorff,Pendorff,MS,,31.6530556,-89.1763889
+us,penns,Penns,MS,,33.3522222,-88.6358333
+us,pentecost,Pentecost,MS,,33.5847222,-90.5286111
+us,penton,Penton,MS,,34.8658333,-90.2797222
+us,peoria,Peoria,MS,,31.1413889,-90.6808333
+us,percy,Percy,MS,,33.1088889,-90.8794444
+us,perdue,Perdue,MS,,32.5144444,-88.9822222
+us,perkinston,Perkinston,MS,,30.7819444,-89.1380556
+us,perry,Perry,MS,,30.7205556,-89.1413889
+us,perrytown,Perrytown,MS,,31.3300000,-91.1661111
+us,perth,Perth,MS,,31.6591667,-90.8677778
+us,perthshire,Perthshire,MS,,33.9772222,-90.9122222
+us,petal,Petal,MS,,31.3463889,-89.2600000
+us,peteet,Peteet,MS,,33.3430556,-90.3877778
+us,petertown,Petertown,MS,,34.6594444,-88.1325000
+us,peyton,Peyton,MS,,31.8375000,-90.8022222
+us,pheba,Pheba,MS,,33.5841667,-88.9497222
+us,philadelphia,Philadelphia,MS,,32.7713889,-89.1166667
+us,philipp,Philipp,MS,,33.7575000,-90.2041667
+us,phillipstown,Phillipstown,MS,,33.3891667,-90.2788889
+us,phoenix,Phoenix,MS,,32.5811111,-90.5627778
+us,piave,Piave,MS,,31.3941667,-88.7447222
+us,picayune,Picayune,MS,10650,30.5252778,-89.6794444
+us,pickens,Pickens,MS,,32.8836111,-89.9713889
+us,pickwick,Pickwick,MS,,31.1355556,-89.8375000
+us,piera,Piera,MS,,34.5416667,-89.6916667
+us,pierce crossroad,Pierce Crossroad,MS,,32.8941667,-90.2455556
+us,pierces chapel,Pierces Chapel,MS,,33.1608333,-89.5597222
+us,piggtown,Piggtown,MS,,32.6497222,-89.6158333
+us,piketown,Piketown,MS,,32.4875000,-89.3661111
+us,pilgrim grove,Pilgrim Grove,MS,,32.2694444,-89.2027778
+us,pilgrim rest,Pilgrim Rest,MS,,32.7244444,-89.5875000
+us,pinchback,Pinchback,MS,,33.2772222,-90.1930556
+us,pinckneyville,Pinckneyville,MS,,31.0158333,-91.4808333
+us,pine bluff,Pine Bluff,MS,,33.3483333,-90.1538889
+us,pine flat,Pine Flat,MS,,34.9741667,-88.2800000
+us,pine grove,Pine Grove,MS,,34.0891667,-88.7088889
+us,pine lake,Pine Lake,MS,,32.0125000,-89.9688889
+us,pine ridge,Pine Ridge,MS,,31.2030556,-89.4452778
+us,pine springs,Pine Springs,MS,,32.4672222,-88.7713889
+us,pine valley,Pine Valley,MS,,34.0683333,-89.5202778
+us,pinebur,Pinebur,MS,,31.1358333,-89.7019444
+us,pinedale,Pinedale,MS,,34.4050000,-89.1925000
+us,pinehaven estates,Pinehaven Estates,MS,,32.3763889,-90.3194444
+us,pineview,Pineview,MS,,31.7261111,-88.9427778
+us,pineville,Pineville,MS,,32.1350000,-89.4027778
+us,piney woods,Piney Woods,MS,,32.0625000,-89.9927778
+us,pink,Pink,MS,,34.5555556,-90.3044444
+us,pinola,Pinola,MS,,31.8769444,-89.9619444
+us,pisgah,Pisgah,MS,,34.7408333,-88.6319444
+us,pistol ridge,Pistol Ridge,MS,,31.0030556,-89.3180556
+us,pittman,Pittman,MS,,33.9494444,-89.4905556
+us,pitts,Pitts,MS,,31.1888889,-90.4125000
+us,pittsboro,Pittsboro,MS,,33.9402778,-89.3375000
+us,plain,Plain,MS,,32.2316667,-90.1616667
+us,plainview,Plainview,MS,,32.2041667,-90.1541667
+us,plairs,Plairs,MS,,33.5422222,-88.8597222
+us,plantation,Plantation,MS,,33.0972222,-89.5091667
+us,plantersville,Plantersville,MS,,34.2133333,-88.6644444
+us,plattsburg,Plattsburg,MS,,32.9413889,-89.1925000
+us,pleasant grove,Pleasant Grove,MS,,34.4391667,-90.0894444
+us,pleasant hill,Pleasant Hill,MS,,31.7241667,-90.7366667
+us,pleasant ridge,Pleasant Ridge,MS,,34.5688889,-88.8366667
+us,plum grove,Plum Grove,MS,,33.3097222,-88.4402778
+us,plum point,Plum Point,MS,,34.9794444,-89.9547222
+us,pluto,Pluto,MS,,33.0533333,-90.3811111
+us,poagville,Poagville,MS,,34.6827778,-89.8625000
+us,pocahontas,Pocahontas,MS,,32.4741667,-90.2861111
+us,point harbor,Point Harbor,MS,,33.5888889,-88.4966667
+us,polkville,Polkville,MS,,32.1936111,-89.6925000
+us,pontotoc,Pontotoc,MS,,34.2477778,-88.9986111
+us,poolville,Poolville,MS,,34.4675000,-89.1200000
+us,pope,Pope,MS,,34.2150000,-89.9477778
+us,popetown,Popetown,MS,,30.7069444,-88.5625000
+us,poplar creek,Poplar Creek,MS,,33.3519444,-89.5555556
+us,poplar springs,Poplar Springs,MS,,33.3797222,-89.5663889
+us,poplarville,Poplarville,MS,,30.8400000,-89.5341667
+us,port gibson,Port Gibson,MS,,31.9608333,-90.9838889
+us,porters chapel,Porters Chapel,MS,,32.2936111,-90.8613889
+us,porterton,Porterton,MS,,34.2880556,-89.4513889
+us,porterville,Porterville,MS,,32.6877778,-88.4722222
+us,possum corner,Possum Corner,MS,,31.3516667,-91.2997222
+us,possum trot,Possum Trot,MS,,34.3022222,-89.0844444
+us,possumneck,Possumneck,MS,,33.1411111,-89.7416667
+us,poticaw landing,Poticaw Landing,MS,,30.5116667,-88.6188889
+us,potlockney,Potlockney,MS,,34.1750000,-89.3736111
+us,potts camp,Potts Camp,MS,,34.6461111,-89.3052778
+us,powell,Powell,MS,,34.4850000,-90.5263889
+us,powers,Powers,MS,,31.6977778,-89.0686111
+us,prairie,Prairie,MS,,33.7966667,-88.6675000
+us,prairie point,Prairie Point,MS,,33.1472222,-88.3936111
+us,praise acres,Praise Acres,MS,,34.1972222,-88.8188889
+us,pratts,Pratts,MS,,34.4800000,-88.5852778
+us,prentiss,Prentiss,MS,,31.5983333,-89.8669444
+us,preston,Preston,MS,,32.8825000,-88.8288889
+us,pricedale,Pricedale,MS,,31.2902778,-90.2947222
+us,priceville,Priceville,MS,,34.2575000,-88.6622222
+us,prichard,Prichard,MS,,34.6994444,-90.2441667
+us,prince chapel,Prince Chapel,MS,,32.9041667,-88.9063889
+us,priscilla,Priscilla,MS,,33.5158333,-90.9830556
+us,prismatic,Prismatic,MS,,32.5916667,-88.7383333
+us,progress,Progress,MS,,31.0461111,-90.3266667
+us,prospect,Prospect,MS,,32.5522222,-89.2688889
+us,providence,Providence,MS,,33.0491667,-89.4150000
+us,puckett,Puckett,MS,,32.0808333,-89.7758333
+us,pulaski,Pulaski,MS,,32.2719444,-89.6022222
+us,pullen,Pullen,MS,,34.1550000,-90.6586111
+us,pumpkin center,Pumpkin Center,MS,,34.5313889,-89.0344444
+us,purnell,Purnell,MS,,33.4530556,-90.4377778
+us,purvis,Purvis,MS,,31.1430556,-89.4097222
+us,pushmataha landing,Pushmataha Landing,MS,,34.1366667,-90.8600000
+us,pyland,Pyland,MS,,33.8838889,-89.1075000
+us,queens hill,Queens Hill,MS,,32.3941667,-90.5272222
+us,quentin,Quentin,MS,,31.5061111,-90.7463889
+us,quincy,Quincy,MS,,33.9097222,-88.3669444
+us,quinlivan,Quinlivan,MS,,31.1916667,-90.4972222
+us,quitman,Quitman,MS,,32.0400000,-88.7280556
+us,quito,Quito,MS,,33.4386111,-90.3011111
+us,quofaloma,Quofaloma,MS,,33.1047222,-90.3461111
+us,rafn,Rafn,MS,,31.6255556,-90.2911111
+us,ragland,Ragland,MS,,31.2188889,-89.1736111
+us,rainey,Rainey,MS,,31.5211111,-89.3505556
+us,raleigh,Raleigh,MS,,32.0333333,-89.5222222
+us,ralston,Ralston,MS,,31.2386111,-89.2416667
+us,ramsey springs,Ramsey Springs,MS,,30.7705556,-88.9147222
+us,randolph,Randolph,MS,,34.1813889,-89.1683333
+us,rankin,Rankin,MS,,32.2863889,-89.9069444
+us,ras,Ras,MS,,32.0494444,-89.1352778
+us,ratliff,Ratliff,MS,,34.3933333,-88.5336111
+us,ratliff landing,Ratliff Landing,MS,,32.9325000,-90.7625000
+us,ravine,Ravine,MS,,33.2136111,-88.3669444
+us,rawhide,Rawhide,MS,,32.4661111,-90.6277778
+us,rawls springs,Rawls Springs,MS,,31.3805556,-89.3713889
+us,raworth,Raworth,MS,,32.3630556,-89.5644444
+us,raymond,Raymond,MS,,32.2591667,-90.4225000
+us,raytown,Raytown,MS,,32.6891667,-89.7986111
+us,red banks,Red Banks,MS,,34.8280556,-89.5644444
+us,red lick,Red Lick,MS,,31.7922222,-90.9791667
+us,red top,Red Top,MS,,30.9691667,-89.4772222
+us,redbone,Redbone,MS,,32.2175000,-90.8908333
+us,redding,Redding,MS,,33.7225000,-89.5130556
+us,reddochs,Reddochs,MS,,31.7069444,-89.4097222
+us,redhill,Redhill,MS,,31.1297222,-89.0641667
+us,redwater,Redwater,MS,,32.7666667,-89.5366667
+us,redwood,Redwood,MS,,32.4775000,-90.8036111
+us,reedtown,Reedtown,MS,,32.0758333,-90.6427778
+us,reese,Reese,MS,,34.4158333,-88.8941667
+us,reese landing,Reese Landing,MS,,34.2191667,-90.8877778
+us,reform,Reform,MS,,33.4305556,-89.1547222
+us,refuge,Refuge,MS,,33.3036111,-91.1363889
+us,reganton,Reganton,MS,,32.1416667,-90.7486111
+us,reid,Reid,MS,,34.0022222,-89.1952778
+us,remus,Remus,MS,,32.8686111,-89.3436111
+us,rena lara,Rena Lara,MS,,34.1497222,-90.7802778
+us,renfroe,Renfroe,MS,,32.8594444,-89.4511111
+us,renova,Renova,MS,,33.7786111,-90.7213889
+us,renshaw,Renshaw,MS,,32.9205556,-90.3791667
+us,rescue landing,Rescue Landing,MS,,34.2361111,-90.8291667
+us,retreat,Retreat,MS,,33.8647222,-89.4580556
+us,revive,Revive,MS,,32.7594444,-89.7641667
+us,rexburg,Rexburg,MS,,33.4311111,-90.8438889
+us,rexford,Rexford,MS,,32.0425000,-90.0747222
+us,rhodes,Rhodes,MS,,31.4319444,-88.9655556
+us,riceville,Riceville,MS,,30.6061111,-89.2958333
+us,rich,Rich,MS,,34.4161111,-90.4447222
+us,richardson,Richardson,MS,,30.5600000,-89.6672222
+us,richburg,Richburg,MS,,31.2741667,-89.3530556
+us,richey,Richey,MS,,33.0300000,-90.7327778
+us,richland,Richland,MS,,32.2388889,-90.1583333
+us,richmond,Richmond,MS,,34.1913889,-88.5566667
+us,richton,Richton,MS,,31.3491667,-88.9400000
+us,ridgeland,Ridgeland,MS,22714,32.4283333,-90.1322222
+us,rienzi,Rienzi,MS,,34.7658333,-88.5266667
+us,riggins,Riggins,MS,,34.0505556,-88.2527778
+us,rio,Rio,MS,,32.6138889,-88.8755556
+us,ripley,Ripley,MS,,34.7297222,-88.9505556
+us,rising sun,Rising Sun,MS,,33.4586111,-90.2086111
+us,riverdale,Riverdale,MS,,33.8341667,-89.8247222
+us,riverside,Riverside,MS,,31.3538889,-89.3316667
+us,riverside junction,Riverside Junction,MS,,32.9313889,-90.8727778
+us,riverton,Riverton,MS,,34.1930556,-90.5791667
+us,riverton landing,Riverton Landing,MS,,33.8197222,-91.0208333
+us,riverview,Riverview,MS,,34.2836111,-90.2488889
+us,riverview estates,Riverview Estates,MS,,30.8708333,-88.7750000
+us,rixwood,Rixwood,MS,,33.6105556,-90.3486111
+us,roadside,Roadside,MS,,32.7888889,-90.3319444
+us,robbs,Robbs,MS,,34.1013889,-89.2069444
+us,roberts,Roberts,MS,,32.2291667,-89.2294444
+us,robinson gin,Robinson Gin,MS,,34.7866667,-90.0247222
+us,robinson springs,Robinson Springs,MS,,32.4972222,-90.2333333
+us,robinsons junction,Robinsons Junction,MS,,31.5744444,-88.5591667
+us,robinsonville,Robinsonville,MS,,34.8172222,-90.3161111
+us,robinwood,Robinwood,MS,,31.4819444,-90.0883333
+us,rochdale,Rochdale,MS,,34.0994444,-90.8502778
+us,rock branch,Rock Branch,MS,,32.5450000,-89.0852778
+us,rock creek,Rock Creek,MS,,30.9527778,-88.5388889
+us,rock hill,Rock Hill,MS,,31.0850000,-89.3094444
+us,rockhill,Rockhill,MS,,34.7141667,-89.7391667
+us,rockport,Rockport,MS,,31.7947222,-90.1566667
+us,rocky branch,Rocky Branch,MS,,31.3138889,-89.6325000
+us,rocky ford,Rocky Ford,MS,,34.3708333,-89.1133333
+us,rocky hill,Rocky Hill,MS,,33.5252778,-88.8000000
+us,rocky point,Rocky Point,MS,,33.1686111,-89.7000000
+us,rocky springs,Rocky Springs,MS,,32.0886111,-90.8150000
+us,rodney,Rodney,MS,,31.8611111,-91.1997222
+us,roebuck,Roebuck,MS,,33.4447222,-90.2344444
+us,rolling fork,Rolling Fork,MS,,32.9063889,-90.8780556
+us,rome,Rome,MS,,33.9630556,-90.4783333
+us,romeo,Romeo,MS,,33.0250000,-90.5652778
+us,rose hill,Rose Hill,MS,,32.1444444,-88.9958333
+us,roseacres,Roseacres,MS,,34.3955556,-90.4500000
+us,rosebloom,Rosebloom,MS,,33.8761111,-89.9519444
+us,rosebud,Rosebud,MS,,32.6491667,-89.3919444
+us,rosedale,Rosedale,MS,,33.8533333,-91.0277778
+us,rosella,Rosella,MS,,31.6072222,-90.1283333
+us,rosemary,Rosemary,MS,,32.0880556,-90.2597222
+us,roseneath,Roseneath,MS,,33.0677778,-90.4283333
+us,rosetta,Rosetta,MS,,31.3163889,-91.1008333
+us,ross crossing,Ross Crossing,MS,,34.8180556,-88.7286111
+us,rough edge,Rough Edge,MS,,34.2558333,-88.9755556
+us,round lake,Round Lake,MS,,34.0533333,-90.8527778
+us,roundaway,Roundaway,MS,,34.0141667,-90.5980556
+us,rounsaville,Rounsaville,MS,,31.1686111,-88.4569444
+us,rouse,Rouse,MS,,31.1069444,-89.6411111
+us,rowlands,Rowlands,MS,,30.6944444,-89.4719444
+us,roxie,Roxie,MS,,31.5044444,-91.0688889
+us,roy,Roy,MS,,32.1805556,-88.7088889
+us,royce,Royce,MS,,31.0622222,-88.8052778
+us,ruble,Ruble,MS,,30.7733333,-88.8708333
+us,ruby,Ruby,MS,,31.9458333,-90.2480556
+us,rucks,Rucks,MS,,34.0833333,-90.5466667
+us,rudyard,Rudyard,MS,,34.3350000,-90.5366667
+us,rufus,Rufus,MS,,32.1780556,-89.7805556
+us,ruleville,Ruleville,MS,,33.7258333,-90.5513889
+us,runnelstown,Runnelstown,MS,,31.3755556,-89.1116667
+us,runnymede,Runnymede,MS,,33.4966667,-90.3105556
+us,rural hill,Rural Hill,MS,,33.0761111,-89.2988889
+us,rushing,Rushing,MS,,31.1305556,-90.1769444
+us,ruslor junction,Ruslor Junction,MS,,34.9575000,-88.5277778
+us,russell,Russell,MS,,32.4036111,-88.5938889
+us,russellville,Russellville,MS,,32.5408333,-90.6527778
+us,russum,Russum,MS,,31.8772222,-91.0113889
+us,ruth,Ruth,MS,,31.3813889,-90.3163889
+us,sabino,Sabino,MS,,34.2041667,-90.4072222
+us,sable,Sable,MS,,32.2011111,-88.6877778
+us,sabougla,Sabougla,MS,,33.7758333,-89.4641667
+us,sago,Sago,MS,,33.0319444,-90.9119444
+us,saint ann,Saint Ann,MS,,32.7827778,-89.6602778
+us,saint catherine,Saint Catherine,MS,,31.5452778,-91.3680556
+us,saint elmo,Saint Elmo,MS,,31.9950000,-90.8102778
+us,saint francis island landing,Saint Francis Island Landing,MS,,34.6866667,-90.5411111
+us,saint paul,Saint Paul,MS,,31.0750000,-89.8138889
+us,salem,Salem,MS,,31.2297222,-90.1172222
+us,sallis,Sallis,MS,,33.0222222,-89.7652778
+us,saltillo,Saltillo,MS,,34.3763889,-88.6816667
+us,sanatorium,Sanatorium,MS,,31.8986111,-89.7775000
+us,sand hill,Sand Hill,MS,,31.6205556,-89.2816667
+us,sand point,Sand Point,MS,,32.0880556,-89.4605556
+us,sandersville,Sandersville,MS,,31.7863889,-89.0322222
+us,sandtown,Sandtown,MS,,32.7947222,-89.0016667
+us,sandy bayou,Sandy Bayou,MS,,33.8541667,-90.5816667
+us,sandy creek subdivision,Sandy Creek Subdivision,MS,,34.9922222,-88.2572222
+us,sandy hook,Sandy Hook,MS,,31.0361111,-89.8047222
+us,sandy ridge,Sandy Ridge,MS,,33.7125000,-90.2188889
+us,sandy springs,Sandy Springs,MS,,34.4327778,-88.3750000
+us,sanford,Sanford,MS,,31.4866667,-89.4269444
+us,santa rosa,Santa Rosa,MS,,30.4294444,-89.6477778
+us,santee,Santee,MS,,31.5541667,-89.7222222
+us,sapa,Sapa,MS,,33.5475000,-89.2019444
+us,sarah,Sarah,MS,,34.5694444,-90.2102778
+us,saratoga,Saratoga,MS,,31.7969444,-89.6775000
+us,sardis,Sardis,MS,,34.4369444,-89.9158333
+us,sarepta,Sarepta,MS,,34.1244444,-89.2875000
+us,sartinville,Sartinville,MS,,31.3269444,-90.1161111
+us,satartia,Satartia,MS,,32.6708333,-90.5441667
+us,saucier,Saucier,MS,,30.6355556,-89.1350000
+us,sauer,Sauer,MS,,31.1013889,-89.8300000
+us,saukum,Saukum,MS,,31.2311111,-91.1847222
+us,savage,Savage,MS,,34.6297222,-90.2230556
+us,savannah,Savannah,MS,,30.7394444,-89.4908333
+us,savannah grove,Savannah Grove,MS,,32.3450000,-88.7444444
+us,savoy,Savoy,MS,,32.2705556,-88.7697222
+us,sawyer,Sawyer,MS,,33.5252778,-89.7363889
+us,saxon,Saxon,MS,,31.1230556,-89.8341667
+us,schamberville,Schamberville,MS,,32.4741667,-88.8636111
+us,schlater,Schlater,MS,,33.6405556,-90.3480556
+us,schley,Schley,MS,,31.7872222,-90.0941667
+us,sciples mill,Sciples Mill,MS,,32.8669444,-88.7261111
+us,scobey,Scobey,MS,,33.9413889,-89.8658333
+us,scooba,Scooba,MS,,32.8280556,-88.4763889
+us,scotland,Scotland,MS,,32.7052778,-90.2211111
+us,scotland fork,Scotland Fork,MS,,32.7130556,-90.2238889
+us,scott,Scott,MS,,33.5916667,-91.0741667
+us,searcy town,Searcy Town,MS,,34.8175000,-88.4936111
+us,sebastopol,Sebastopol,MS,,32.5727778,-89.3350000
+us,self creek,Self Creek,MS,,33.4652778,-89.0111111
+us,sellers,Sellers,MS,,30.5913889,-89.3575000
+us,selma,Selma,MS,,31.6013889,-91.2788889
+us,sels prairie,Sels Prairie,MS,,31.9380556,-88.6308333
+us,seminary,Seminary,MS,,31.5622222,-89.4975000
+us,senatobia,Senatobia,MS,,34.6175000,-89.9686111
+us,senatobia lakes,Senatobia Lakes,MS,,34.6208333,-89.8752778
+us,seneca,Seneca,MS,,31.0391667,-89.4394444
+us,service,Service,MS,,31.7355556,-89.2233333
+us,sessions,Sessions,MS,,34.3413889,-90.6313889
+us,sessums,Sessums,MS,,33.4161111,-88.7141667
+us,seven pines,Seven Pines,MS,,33.3702778,-90.0947222
+us,seven springs,Seven Springs,MS,,32.2158333,-90.3736111
+us,shackleford,Shackleford,MS,,33.1472222,-90.2363889
+us,shady grove,Shady Grove,MS,,31.7525000,-89.1538889
+us,shady oak,Shady Oak,MS,,31.6936111,-89.4361111
+us,shannon,Shannon,MS,,34.1161111,-88.7116667
+us,shari,Shari,MS,,34.5161111,-89.0455556
+us,sharkey,Sharkey,MS,,33.9050000,-90.2647222
+us,sharon,Sharon,MS,,32.6583333,-89.9361111
+us,sharpsburg,Sharpsburg,MS,,32.7558333,-89.9894444
+us,shaw,Shaw,MS,,33.6016667,-90.7736111
+us,shelby,Shelby,MS,,33.9508333,-90.7677778
+us,shellmound,Shellmound,MS,,33.6063889,-90.2797222
+us,shelton,Shelton,MS,,31.4922222,-89.3491667
+us,shepherd,Shepherd,MS,,33.9691667,-89.3994444
+us,sheppardtown,Sheppardtown,MS,,33.3913889,-90.3133333
+us,sherard,Sherard,MS,,34.2155556,-90.7061111
+us,sherman,Sherman,MS,,34.3591667,-88.8411111
+us,sherwood,Sherwood,MS,,33.4877778,-89.1338889
+us,sherwood forest,Sherwood Forest,MS,,32.2083333,-89.9669444
+us,shiloh,Shiloh,MS,,32.0102778,-88.4969444
+us,shipman,Shipman,MS,,30.8772222,-88.4750000
+us,shivers,Shivers,MS,,31.7963889,-89.9875000
+us,shoccoe,Shoccoe,MS,,32.6097222,-89.9011111
+us,shongelo,Shongelo,MS,,32.1027778,-89.5130556
+us,short,Short,MS,,34.9402778,-88.1977778
+us,shraderville,Shraderville,MS,,33.0636111,-90.8072222
+us,shubuta,Shubuta,MS,,31.8600000,-88.6994444
+us,shucktown,Shucktown,MS,,31.5925000,-90.6627778
+us,shuford,Shuford,MS,,34.2222222,-89.8069444
+us,shuqualak,Shuqualak,MS,,32.9783333,-88.5700000
+us,sibley,Sibley,MS,,31.3791667,-91.3986111
+us,sibleyton,Sibleyton,MS,,33.4380556,-89.5250000
+us,sidon,Sidon,MS,,33.4080556,-90.2038889
+us,signal,Signal,MS,,32.4008333,-90.8538889
+us,siloam,Siloam,MS,,33.6366667,-88.7575000
+us,silver city,Silver City,MS,,33.0963889,-90.4966667
+us,silver creek,Silver Creek,MS,,31.6050000,-89.9983333
+us,silver creek acres,Silver Creek Acres,MS,,30.4208333,-89.4013889
+us,silver run,Silver Run,MS,,30.7333333,-89.3455556
+us,silver springs,Silver Springs,MS,,34.7802778,-88.7805556
+us,simmonsville,Simmonsville,MS,,31.0630556,-90.3144444
+us,simonds,Simonds,MS,,31.0097222,-90.1802778
+us,simpson,Simpson,MS,,31.8422222,-89.3369444
+us,simrall,Simrall,MS,,32.2016667,-90.9452778
+us,sinai,Sinai,MS,,32.1225000,-90.1869444
+us,singleton,Singleton,MS,,32.8861111,-89.5366667
+us,singleton settlement,Singleton Settlement,MS,,32.3833333,-89.4088889
+us,sipsey fork,Sipsey Fork,MS,,33.9491667,-88.2436111
+us,sisloff junction,Sisloff Junction,MS,,33.7652778,-90.2266667
+us,siwel,Siwel,MS,,32.2469444,-90.3027778
+us,skene,Skene,MS,,33.7036111,-90.7941667
+us,skuna,Skuna,MS,,33.9580556,-89.4552778
+us,skyline,Skyline,MS,,34.2636111,-88.6411111
+us,slate spring,Slate Spring,MS,,33.7405556,-89.3711111
+us,slaughter flat landing,Slaughter Flat Landing,MS,,30.5719444,-88.4169444
+us,slayden,Slayden,MS,,34.9469444,-89.4408333
+us,sledge,Sledge,MS,,34.4319444,-90.2208333
+us,sleepy hollow,Sleepy Hollow,MS,,32.9680556,-90.5841667
+us,sloan,Sloan,MS,,32.5600000,-90.0597222
+us,smalco,Smalco,MS,,34.5322222,-89.0791667
+us,smedes,Smedes,MS,,32.6936111,-90.9205556
+us,smith,Smith,MS,,31.7569444,-89.5697222
+us,smith town,Smith Town,MS,,30.8077778,-89.3125000
+us,smithburg,Smithburg,MS,,31.0283333,-90.2902778
+us,smithdale,Smithdale,MS,,31.3394444,-90.6827778
+us,smiths,Smiths,MS,,32.3391667,-90.6730556
+us,smithtown,Smithtown,MS,,31.4372222,-88.7158333
+us,smithville,Smithville,MS,,34.0700000,-88.3911111
+us,smyrna,Smyrna,MS,,32.9886111,-89.4852778
+us,snell,Snell,MS,,32.1916667,-88.5016667
+us,snow lake shores,Snow Lake Shores,MS,,34.8244444,-89.2394444
+us,society hill,Society Hill,MS,,31.4086111,-89.8888889
+us,somerville,Somerville,MS,,33.7919444,-90.2655556
+us,sonora,Sonora,MS,,33.8450000,-88.9991667
+us,sontag,Sontag,MS,,31.6522222,-90.2041667
+us,soso,Soso,MS,,31.7566667,-89.2741667
+us,south pascagoula,South Pascagoula,MS,,30.3463889,-88.5322222
+us,southaven,Southaven,MS,38578,34.9888889,-90.0125000
+us,southhaven,Southhaven,MS,,34.9916667,-90.1275000
+us,southland park,Southland Park,MS,,33.5319444,-89.2672222
+us,southside,Southside,MS,,33.3500000,-90.5630556
+us,spanish fort,Spanish Fort,MS,,32.7594444,-90.7347222
+us,sparta,Sparta,MS,,33.7686111,-88.9791667
+us,spearman,Spearman,MS,,33.9272222,-89.5933333
+us,speeds addition,Speeds Addition,MS,,32.3388889,-90.8855556
+us,speedtown,Speedtown,MS,,31.6305556,-89.4430556
+us,spencer,Spencer,MS,,33.0180556,-90.9761111
+us,splinter,Splinter,MS,,34.2863889,-89.6716667
+us,splunge,Splunge,MS,,33.9688889,-88.2686111
+us,spraggins,Spraggins,MS,,34.5547222,-89.4855556
+us,spring cottage,Spring Cottage,MS,,31.0894444,-89.7663889
+us,spring creek,Spring Creek,MS,,32.8322222,-89.0397222
+us,spring hill,Spring Hill,MS,,34.9327778,-89.2111111
+us,spring ridge,Spring Ridge,MS,,32.1875000,-90.3297222
+us,spring valley,Spring Valley,MS,,33.5475000,-89.1125000
+us,springdale,Springdale,MS,,34.2216667,-89.6091667
+us,springhill,Springhill,MS,,31.7444444,-89.2141667
+us,springville,Springville,MS,,34.2316667,-89.1036111
+us,st. martin,St. Martin,MS,,30.4377778,-88.8680556
+us,stafford springs,Stafford Springs,MS,,31.9047222,-88.9333333
+us,stage,Stage,MS,,32.2825000,-89.6350000
+us,stallo,Stallo,MS,,32.9200000,-89.1005556
+us,stampley,Stampley,MS,,31.6369444,-91.1311111
+us,standard,Standard,MS,,30.5494444,-89.3777778
+us,standing pine,Standing Pine,MS,,32.6736111,-89.4333333
+us,stanton,Stanton,MS,,31.6158333,-91.2402778
+us,star,Star,MS,,32.0938889,-90.0461111
+us,starkville,Starkville,MS,22820,33.4502778,-88.8183333
+us,state line,State Line,MS,,31.4361111,-88.4744444
+us,station creek,Station Creek,MS,,31.6777778,-89.4833333
+us,steele,Steele,MS,,32.4902778,-89.4252778
+us,steens,Steens,MS,,33.5633333,-88.3161111
+us,steiner,Steiner,MS,,33.6161111,-90.6177778
+us,stella,Stella,MS,,31.1838889,-90.3447222
+us,stephen,Stephen,MS,,33.5625000,-88.5447222
+us,stephenson,Stephenson,MS,,31.2783333,-91.0555556
+us,stephenville,Stephenville,MS,,33.5480556,-90.6716667
+us,sterling,Sterling,MS,,32.3050000,-88.7736111
+us,stevens,Stevens,MS,,32.0308333,-89.2755556
+us,stewart,Stewart,MS,,33.4505556,-89.4361111
+us,stinson,Stinson,MS,,32.2911111,-88.6908333
+us,stokely,Stokely,MS,,34.2655556,-90.7202778
+us,stokes,Stokes,MS,,32.5950000,-90.2038889
+us,stoneville,Stoneville,MS,,33.4238889,-90.9150000
+us,stonewall,Stonewall,MS,,32.1316667,-88.7933333
+us,stonington,Stonington,MS,,31.7588889,-91.0172222
+us,stout,Stout,MS,,32.3002778,-90.8991667
+us,stovall,Stovall,MS,,34.2966667,-90.6447222
+us,stover,Stover,MS,,34.0477778,-90.2786111
+us,stratton,Stratton,MS,,32.4994444,-89.1341667
+us,strayhorn,Strayhorn,MS,,34.6122222,-90.1438889
+us,strengthford,Strengthford,MS,,31.6136111,-88.8847222
+us,strickland,Strickland,MS,,34.8783333,-88.4413889
+us,stringer,Stringer,MS,,31.8666667,-89.2633333
+us,stringtown,Stringtown,MS,,33.5747222,-90.9844444
+us,strong,Strong,MS,,33.6952778,-88.6044444
+us,stronghope,Stronghope,MS,,31.7438889,-90.2633333
+us,sturgis,Sturgis,MS,,33.3444444,-89.0452778
+us,sucarnoochee,Sucarnoochee,MS,,32.7311111,-88.4730556
+us,success,Success,MS,,30.6105556,-89.0516667
+us,suffolk,Suffolk,MS,,31.4611111,-90.9661111
+us,sugar hill,Sugar Hill,MS,,33.5491667,-89.5866667
+us,sumbax,Sumbax,MS,,31.2352778,-89.9230556
+us,summerland,Summerland,MS,,31.7991667,-89.3602778
+us,summit,Summit,MS,,31.2836111,-90.4683333
+us,sumner,Sumner,MS,,33.9708333,-90.3686111
+us,sumrall,Sumrall,MS,,31.4172222,-89.5422222
+us,sun,Sun,MS,,32.2261111,-89.3611111
+us,sunflower,Sunflower,MS,,33.5427778,-90.5369444
+us,sunflower landing,Sunflower Landing,MS,,34.1661111,-90.8019444
+us,sunnyside,Sunnyside,MS,,33.6963889,-90.2950000
+us,sunrise,Sunrise,MS,,31.3122222,-89.2138889
+us,sunset,Sunset,MS,,31.6638889,-89.6286111
+us,suqualena,Suqualena,MS,,32.4433333,-88.8263889
+us,susie,Susie,MS,,33.7541667,-89.5500000
+us,swan lake,Swan Lake,MS,,33.8747222,-90.2833333
+us,sweatman,Sweatman,MS,,33.6341667,-89.5797222
+us,swiftown,Swiftown,MS,,33.3055556,-90.4250000
+us,swiftwater,Swiftwater,MS,,33.3375000,-91.0597222
+us,sykes,Sykes,MS,,32.0938889,-88.5922222
+us,sylvarena,Sylvarena,MS,,32.0108333,-89.3805556
+us,symonds,Symonds,MS,,33.8338889,-90.8902778
+us,synagogue,Synagogue,MS,,34.7833333,-88.5597222
+us,tabbville,Tabbville,MS,,33.8472222,-89.0866667
+us,tallahala,Tallahala,MS,,31.3863889,-89.1230556
+us,tallahomo,Tallahomo,MS,,31.5325000,-89.0755556
+us,tallula,Tallula,MS,,32.7794444,-91.1144444
+us,talowah,Talowah,MS,,31.0758333,-89.4302778
+us,tamola,Tamola,MS,,32.5866667,-88.4769444
+us,tandy,Tandy,MS,,33.9625000,-90.1647222
+us,tangipahoa,Tangipahoa,MS,,31.2597222,-90.5694444
+us,tanglewood,Tanglewood,MS,,32.2755556,-89.3047222
+us,taska,Taska,MS,,34.9188889,-89.5652778
+us,tatum,Tatum,MS,,31.1488889,-91.0436111
+us,tawanta,Tawanta,MS,,31.5475000,-89.2494444
+us,taylor,Taylor,MS,,34.2722222,-89.5886111
+us,taylorsville,Taylorsville,MS,,31.8294444,-89.4280556
+us,tchula,Tchula,MS,,33.1827778,-90.2227778
+us,teasdale,Teasdale,MS,,34.1158333,-90.0222222
+us,teckville,Teckville,MS,,34.5063889,-89.6627778
+us,ten mile,Ten Mile,MS,,30.7652778,-89.1436111
+us,teoc,Teoc,MS,,33.5791667,-90.0552778
+us,terrell,Terrell,MS,,31.5991667,-89.7316667
+us,terrene landing,Terrene Landing,MS,,33.8905556,-91.0402778
+us,terry,Terry,MS,,32.0961111,-90.2941667
+us,terrys creek,Terrys Creek,MS,,31.0686111,-90.5280556
+us,terza,Terza,MS,,34.3513889,-89.8541667
+us,texas,Texas,MS,,30.8858333,-89.2719444
+us,thaxton,Thaxton,MS,,34.3075000,-89.1780556
+us,thayer,Thayer,MS,,31.4900000,-90.4477778
+us,thelma,Thelma,MS,,33.9875000,-89.0263889
+us,theo,Theo,MS,,34.9308333,-88.6975000
+us,thomastown,Thomastown,MS,,32.8638889,-89.6694444
+us,thomasville,Thomasville,MS,,32.1563889,-90.0127778
+us,thompson,Thompson,MS,,31.2566667,-90.6380556
+us,thompsonville,Thompsonville,MS,,32.0591667,-90.4591667
+us,thorn,Thorn,MS,,33.9425000,-89.1025000
+us,thornton,Thornton,MS,,33.0791667,-90.3225000
+us,thrasher,Thrasher,MS,,34.7194444,-88.5338889
+us,threadville,Threadville,MS,,31.9741667,-88.5113889
+us,three rivers,Three Rivers,MS,,30.5866667,-88.5625000
+us,thyatira,Thyatira,MS,,34.6338889,-89.7555556
+us,tibbee,Tibbee,MS,,33.5283333,-88.6313889
+us,tibbs,Tibbs,MS,,34.4672222,-90.3100000
+us,tie plant,Tie Plant,MS,,33.7413889,-89.7900000
+us,tilden,Tilden,MS,,34.1866667,-88.3519444
+us,tillatoba,Tillatoba,MS,,33.9847222,-89.8966667
+us,tillman,Tillman,MS,,31.8544444,-90.9161111
+us,tilton,Tilton,MS,,31.4147222,-90.0208333
+us,tinnin,Tinnin,MS,,32.4241667,-90.3452778
+us,tinsley,Tinsley,MS,,32.7319444,-90.4602778
+us,tiplersville,Tiplersville,MS,,34.8955556,-88.9075000
+us,tippo,Tippo,MS,,33.9119444,-90.1805556
+us,tisdell landing,Tisdell Landing,MS,,32.9322222,-90.7566667
+us,tishomingo,Tishomingo,MS,,34.6366667,-88.2316667
+us,toccopola,Toccopola,MS,,34.2563889,-89.2355556
+us,tocowa,Tocowa,MS,,34.2236111,-90.0597222
+us,togo,Togo,MS,,33.2847222,-88.3847222
+us,tokio,Tokio,MS,,31.7447222,-88.5480556
+us,tolarville,Tolarville,MS,,33.0472222,-90.2186111
+us,tollison,Tollison,MS,,33.2533333,-89.1913889
+us,tomnolen,Tomnolen,MS,,33.4847222,-89.3605556
+us,toomsuba,Toomsuba,MS,,32.4183333,-88.5069444
+us,topeka,Topeka,MS,,31.4150000,-90.1883333
+us,topisaw,Topisaw,MS,,31.2897222,-90.2730556
+us,topton,Topton,MS,,32.4672222,-88.6022222
+us,touchstone,Touchstone,MS,,31.9983333,-90.0344444
+us,tougaloo,Tougaloo,MS,,32.3975000,-90.1588889
+us,townsend,Townsend,MS,,32.7552778,-88.5488889
+us,tralake,Tralake,MS,,33.2702778,-90.7947222
+us,tranquil,Tranquil,MS,,33.9422222,-88.5994444
+us,trapp,Trapp,MS,,32.7394444,-89.2136111
+us,traxler,Traxler,MS,,32.0097222,-89.6494444
+us,trebloc,Trebloc,MS,,33.8411111,-88.8302778
+us,tremont,Tremont,MS,,34.2347222,-88.2586111
+us,trenton,Trenton,MS,,32.1691667,-89.6108333
+us,tribbett,Tribbett,MS,,33.3513889,-90.7983333
+us,trinity,Trinity,MS,,33.3458333,-88.4622222
+us,triplets corners,Triplets Corners,MS,,33.0911111,-88.8216667
+us,trotter landing,Trotter Landing,MS,,34.5436111,-90.5330556
+us,troy,Troy,MS,,34.1188889,-88.8850000
+us,truitt,Truitt,MS,,32.8069444,-89.9088889
+us,tryus,Tryus,MS,,31.6913889,-90.1991667
+us,tucker,Tucker,MS,,32.7063889,-89.0538889
+us,tuckers crossing,Tuckers Crossing,MS,,31.6272222,-89.0900000
+us,tula,Tula,MS,,34.2327778,-89.3622222
+us,tunica,Tunica,MS,,34.6844444,-90.3827778
+us,tunica north,Tunica North,MS,,34.7027778,-90.3777778
+us,tupelo,Tupelo,MS,35956,34.2575000,-88.7033333
+us,turkey creek,Turkey Creek,MS,,33.8875000,-89.6819444
+us,turnbull,Turnbull,MS,,31.0222222,-91.2919444
+us,turner,Turner,MS,,33.9736111,-90.2847222
+us,turners flat,Turners Flat,MS,,33.6233333,-90.8541667
+us,turnerville,Turnerville,MS,,32.0255556,-89.2033333
+us,turnetta,Turnetta,MS,,32.6252778,-89.9930556
+us,turnpike,Turnpike,MS,,34.2897222,-89.1233333
+us,turon,Turon,MS,,34.1041667,-88.3250000
+us,tuscan,Tuscan,MS,,33.3122222,-89.1544444
+us,tuscola,Tuscola,MS,,32.6200000,-89.5277778
+us,tutwiler,Tutwiler,MS,,34.0147222,-90.4316667
+us,twin,Twin,MS,,31.0075000,-89.7980556
+us,twin lake,Twin Lake,MS,,32.4888889,-90.8200000
+us,twin lakes,Twin Lakes,MS,,34.9444444,-90.0916667
+us,tyler,Tyler,MS,,30.7072222,-89.6061111
+us,tylertown,Tylertown,MS,,31.1158333,-90.1419444
+us,tyro,Tyro,MS,,34.5836111,-89.7052778
+us,tyson,Tyson,MS,,33.9338889,-89.5333333
+us,una,Una,MS,,33.7969444,-88.8069444
+us,union,Union,MS,,32.5713889,-89.1213889
+us,union church,Union Church,MS,,31.6827778,-90.7875000
+us,union hall,Union Hall,MS,,34.2244444,-89.5427778
+us,union hill,Union Hill,MS,,34.4863889,-88.9519444
+us,unity,Unity,MS,,34.3900000,-88.5688889
+us,updike,Updike,MS,,33.0594444,-90.7686111
+us,upton,Upton,MS,,31.9900000,-89.7038889
+us,usrytown,Usrytown,MS,,32.3863889,-89.3811111
+us,ustane,Ustane,MS,,31.2866667,-90.8313889
+us,utica,Utica,MS,,32.1094444,-90.6233333
+us,vaiden,Vaiden,MS,,33.3319444,-89.7411111
+us,valewood,Valewood,MS,,33.0047222,-91.1111111
+us,valley,Valley,MS,,33.6327778,-90.0319444
+us,valley hill,Valley Hill,MS,,33.5041667,-90.0611111
+us,valley mills,Valley Mills,MS,,32.3897222,-90.8583333
+us,valley park,Valley Park,MS,,32.6333333,-90.8666667
+us,value,Value,MS,,32.2875000,-89.9955556
+us,van buren,Van Buren,MS,,34.1916667,-88.4113889
+us,van vleet,Van Vleet,MS,,33.9869444,-88.9002778
+us,van winkle,Van Winkle,MS,,32.2986111,-90.2636111
+us,vance,Vance,MS,,34.0727778,-90.3508333
+us,vancleave,Vancleave,MS,,30.5402778,-88.6875000
+us,vardaman,Vardaman,MS,,33.8755556,-89.1772222
+us,varnado,Varnado,MS,,31.3386111,-89.3577778
+us,vaughan,Vaughan,MS,,32.8063889,-90.0416667
+us,vaughn,Vaughn,MS,,31.5769444,-90.5733333
+us,vaughts,Vaughts,MS,,31.1691667,-90.2627778
+us,velma,Velma,MS,,34.0602778,-89.6444444
+us,verba,Verba,MS,,32.1355556,-89.1741667
+us,verna,Verna,MS,,31.3730556,-90.2425000
+us,vernal,Vernal,MS,,31.0383333,-88.6108333
+us,vernon,Vernon,MS,,31.9100000,-89.1533333
+us,verona,Verona,MS,,34.1941667,-88.7197222
+us,vestry,Vestry,MS,,30.7266667,-88.7758333
+us,veto,Veto,MS,,31.5777778,-90.7708333
+us,vickland,Vickland,MS,,33.0427778,-90.8477778
+us,vicksburg,Vicksburg,MS,25701,32.3525000,-90.8777778
+us,victor,Victor,MS,,33.7769444,-90.8250000
+us,victoria,Victoria,MS,,34.8461111,-89.6180556
+us,villanova,Villanova,MS,,32.4336111,-90.7727778
+us,vimville,Vimville,MS,,32.3300000,-88.5727778
+us,vinton,Vinton,MS,,33.6583333,-88.5233333
+us,violet,Violet,MS,,31.8205556,-90.8527778
+us,virlilia,Virlilia,MS,,32.6261111,-90.1313889
+us,vossburg,Vossburg,MS,,31.9286111,-88.9408333
+us,vowell,Vowell,MS,,32.9827778,-89.3075000
+us,waddell,Waddell,MS,,33.5802778,-88.8711111
+us,wade,Wade,MS,,30.6422222,-88.5697222
+us,wahalak,Wahalak,MS,,32.9055556,-88.5297222
+us,waites,Waites,MS,,34.7016667,-89.3794444
+us,wakefield,Wakefield,MS,,34.7430556,-89.7408333
+us,wakeland,Wakeland,MS,,33.6186111,-90.1994444
+us,waldo,Waldo,MS,,32.7372222,-89.2769444
+us,waldrup,Waldrup,MS,,31.9650000,-89.1077778
+us,walker siding,Walker Siding,MS,,34.8319444,-88.2888889
+us,walkers gin,Walkers Gin,MS,,33.6444444,-88.9708333
+us,wallace,Wallace,MS,,34.3730556,-89.7319444
+us,wallace creek,Wallace Creek,MS,,34.1602778,-89.8922222
+us,wallerville,Wallerville,MS,,34.4416667,-88.9458333
+us,wallfield,Wallfield,MS,,34.1091667,-89.0269444
+us,wallhill,Wallhill,MS,,34.7144444,-89.7038889
+us,wallis,Wallis,MS,,31.1552778,-89.2383333
+us,walls,Walls,MS,,34.9577778,-90.1516667
+us,walnut,Walnut,MS,,34.9461111,-88.8997222
+us,walnut creek,Walnut Creek,MS,,34.8063889,-88.8897222
+us,walnut grove,Walnut Grove,MS,,32.5902778,-89.4583333
+us,walsh,Walsh,MS,,32.5711111,-90.8394444
+us,walters,Walters,MS,,31.6433333,-89.1780556
+us,waltersville,Waltersville,MS,,32.3794444,-90.8677778
+us,walthall,Walthall,MS,,33.6072222,-89.2772222
+us,wanilla,Wanilla,MS,,31.6427778,-90.1316667
+us,ward,Ward,MS,,30.8666667,-88.5472222
+us,wardwell,Wardwell,MS,,31.3427778,-89.3755556
+us,warrenton,Warrenton,MS,,32.2472222,-90.9283333
+us,warsaw,Warsaw,MS,,34.8308333,-89.6861111
+us,washington,Washington,MS,,31.5786111,-91.2991667
+us,water valley,Water Valley,MS,,34.1513889,-89.6313889
+us,water valley landing,Water Valley Landing,MS,,34.1491667,-89.7733333
+us,waterford,Waterford,MS,,34.6475000,-89.4572222
+us,waters landing,Waters Landing,MS,,30.7905556,-88.4647222
+us,watson,Watson,MS,,34.7875000,-89.6886111
+us,watson center,Watson Center,MS,,34.7875000,-89.6708333
+us,wautubbee,Wautubbee,MS,,32.1161111,-88.8583333
+us,waveland,Waveland,MS,,30.2866667,-89.3761111
+us,waverly,Waverly,MS,,33.5675000,-88.5038889
+us,waxhaw,Waxhaw,MS,,33.9175000,-90.9691667
+us,way,Way,MS,,32.7438889,-90.0330556
+us,waynesboro,Waynesboro,MS,,31.6747222,-88.6461111
+us,wayside,Wayside,MS,,33.2688889,-91.0336111
+us,weathersby,Weathersby,MS,,31.9391667,-89.8316667
+us,webb,Webb,MS,,33.9472222,-90.3441667
+us,webster,Webster,MS,,33.2175000,-88.9836111
+us,weir,Weir,MS,,33.2666667,-89.2908333
+us,wellman,Wellman,MS,,31.4583333,-90.3605556
+us,wells,Wells,MS,,33.5977778,-88.3944444
+us,wells town,Wells Town,MS,,31.0227778,-89.4747222
+us,wenasoga,Wenasoga,MS,,34.9869444,-88.5905556
+us,wesson,Wesson,MS,,31.7011111,-90.3975000
+us,west,West,MS,,33.1969444,-89.7772222
+us,west corinth,West Corinth,MS,,34.9413889,-88.5308333
+us,west days,West Days,MS,,34.9113889,-90.0958333
+us,west enterprise,West Enterprise,MS,,32.1722222,-88.8250000
+us,west fulton,West Fulton,MS,,34.2708333,-88.4541667
+us,west gulfport,West Gulfport,MS,,30.4038889,-89.0941667
+us,west hattiesburg,West Hattiesburg,MS,,31.3188889,-89.3750000
+us,west hill,West Hill,MS,,33.1022222,-89.9147222
+us,west king,West King,MS,,31.7505556,-88.7008333
+us,west leesburg,West Leesburg,MS,,32.4416667,-89.7894444
+us,west lincoln,West Lincoln,MS,,31.4927778,-90.5691667
+us,west marks,West Marks,MS,,34.2647222,-90.3052778
+us,west point,West Point,MS,11674,33.6075000,-88.6502778
+us,west poplarville,West Poplarville,MS,,30.8341667,-89.5713889
+us,west view,West View,MS,,32.3630556,-90.4286111
+us,westfield,Westfield,MS,,33.1258333,-90.2608333
+us,westside,Westside,MS,,31.9050000,-91.1286111
+us,westville,Westville,MS,,33.8538889,-88.3858333
+us,whaley,Whaley,MS,,33.6236111,-90.1061111
+us,wheeler,Wheeler,MS,,34.5802778,-88.6075000
+us,whistler,Whistler,MS,,31.6969444,-88.8044444
+us,whitaker,Whitaker,MS,,31.0252778,-91.1036111
+us,white apple,White Apple,MS,,31.4569444,-91.0741667
+us,white bluff,White Bluff,MS,,31.3647222,-89.9658333
+us,white cap,White Cap,MS,,31.2152778,-90.9744444
+us,white city,White City,MS,,33.7038889,-90.6333333
+us,white harbor,White Harbor,MS,,30.3305556,-89.2055556
+us,white house landing,White House Landing,MS,,32.9336111,-90.7602778
+us,white oak,White Oak,MS,,34.4908333,-90.1591667
+us,white plains,White Plains,MS,,30.5555556,-88.9305556
+us,white sand,White Sand,MS,,30.7991667,-89.6580556
+us,whitebury,Whitebury,MS,,33.4294444,-88.3763889
+us,whitehead,Whitehead,MS,,33.8486111,-90.2986111
+us,whites,Whites,MS,,33.6602778,-88.6208333
+us,whites creek east,Whites Creek East,MS,,33.5616667,-89.2819444
+us,whites crossing,Whites Crossing,MS,,30.8480556,-89.0402778
+us,whitesand,Whitesand,MS,,31.6011111,-89.9183333
+us,whitfield,Whitfield,MS,,32.2352778,-90.0719444
+us,whitney,Whitney,MS,,33.8477778,-90.5161111
+us,whitten town,Whitten Town,MS,,34.7769444,-89.0591667
+us,wicker,Wicker,MS,,32.2186111,-89.5430556
+us,wiehe,Wiehe,MS,,30.4791667,-89.4950000
+us,wiggins,Wiggins,MS,,30.8580556,-89.1352778
+us,wilco estates,Wilco Estates,MS,,34.7486111,-89.9819444
+us,wildwood,Wildwood,MS,,33.6191667,-90.2411111
+us,wilkinson,Wilkinson,MS,,31.2222222,-91.2388889
+us,willet,Willet,MS,,33.1202778,-90.7508333
+us,williams,Williams,MS,,33.3944444,-89.1697222
+us,williamsburg,Williamsburg,MS,,31.6191667,-89.6105556
+us,williamsville,Williamsville,MS,,33.0266667,-89.5669444
+us,willing,Willing,MS,,31.9608333,-90.6041667
+us,willis,Willis,MS,,34.1402778,-90.7944444
+us,williston,Williston,MS,,32.7619444,-89.3916667
+us,willoughby,Willoughby,MS,,32.5472222,-89.0616667
+us,willows,Willows,MS,,32.0361111,-90.8961111
+us,willowtown,Willowtown,MS,,31.6319444,-89.4750000
+us,wilmot,Wilmot,MS,,33.3050000,-90.8925000
+us,wiltshire,Wiltshire,MS,,33.3044444,-89.8566667
+us,wilzone,Wilzone,MS,,32.9347222,-90.4986111
+us,winborn,Winborn,MS,,34.6311111,-89.2730556
+us,winchester,Winchester,MS,,31.6175000,-88.5905556
+us,wingate,Wingate,MS,,31.2025000,-89.0013889
+us,winona,Winona,MS,,33.4819444,-89.7280556
+us,winston,Winston,MS,,33.2702778,-88.8361111
+us,winstonville,Winstonville,MS,,33.9100000,-90.7513889
+us,winterville,Winterville,MS,,33.5016667,-91.0583333
+us,wise gap,Wise Gap,MS,,33.8988889,-88.3316667
+us,wisner,Wisner,MS,,31.8416667,-89.4705556
+us,wolf,Wolf,MS,,32.4408333,-89.4044444
+us,wolf springs,Wolf Springs,MS,,32.2980556,-88.6894444
+us,wood springs,Wood Springs,MS,,33.4380556,-89.3594444
+us,woodland,Woodland,MS,,33.7786111,-89.0513889
+us,woodlawn,Woodlawn,MS,,33.6227778,-88.3130556
+us,woodside,Woodside,MS,,33.0152778,-90.9744444
+us,woodville,Woodville,MS,,31.1044444,-91.2994444
+us,woodwards,Woodwards,MS,,31.6936111,-88.6638889
+us,wool market,Wool Market,MS,,30.4675000,-88.9958333
+us,woolworth,Woolworth,MS,,31.6330556,-90.2733333
+us,wortham,Wortham,MS,,30.5544444,-89.1325000
+us,wren,Wren,MS,,33.9716667,-88.5997222
+us,wright,Wright,MS,,33.8844444,-90.9986111
+us,wyatt,Wyatt,MS,,33.2330556,-90.2202778
+us,wyatte,Wyatte,MS,,34.6416667,-89.6941667
+us,x-prairie,X-Prairie,MS,,33.1469444,-88.4647222
+us,yarbrough,Yarbrough,MS,,34.1875000,-90.2902778
+us,yazoo city,Yazoo City,MS,12081,32.8550000,-90.4055556
+us,yazoo junction,Yazoo Junction,MS,,32.8880556,-90.3894444
+us,yellow lake,Yellow Lake,MS,,34.4680556,-90.1925000
+us,yocona,Yocona,MS,,34.2780556,-89.4147222
+us,yokena,Yokena,MS,,32.1750000,-90.9419444
+us,young,Young,MS,,30.9977778,-89.3691667
+us,youngs,Youngs,MS,,33.8530556,-89.5344444
+us,youngton,Youngton,MS,,32.4475000,-90.6202778
+us,zama,Zama,MS,,32.9750000,-89.3800000
+us,zaphyr hill,Zaphyr Hill,MS,,32.7747222,-89.2430556
+us,zeiglerville,Zeiglerville,MS,,32.9502778,-90.1700000
+us,zelleria,Zelleria,MS,,32.9636111,-90.3494444
+us,zemuly,Zemuly,MS,,32.9491667,-89.7216667
+us,zero,Zero,MS,,32.3000000,-88.6505556
+us,zetus,Zetus,MS,,31.5636111,-90.5294444
+us,zion,Zion,MS,,34.2058333,-88.8861111
+us,zion hill,Zion Hill,MS,,31.3147222,-90.8266667
+us,zumbro,Zumbro,MS,,33.7794444,-90.6761111
+
